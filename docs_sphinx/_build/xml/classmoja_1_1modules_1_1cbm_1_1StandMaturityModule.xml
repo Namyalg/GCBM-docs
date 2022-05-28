@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="29" column="34" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="29" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="29" column="34" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="29" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a04ab8ceb8f4e27134a67b00651407426" prot="private" static="no" mutable="no">
         <type>const flint::IVariable *</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="31" column="28" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="31" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="31" column="28" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="31" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1ac0a3aacca442655d137350076f15b040" prot="private" static="no" mutable="no">
         <type>const flint::IVariable *</type>
@@ -42,7 +42,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="32" column="28" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="32" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="32" column="28" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="32" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a35c6eb4a9ad3631f77ad35cb34aacfbe" prot="private" static="no" mutable="no">
         <type>const flint::IVariable *</type>
@@ -55,7 +55,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="33" column="28" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="33" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="33" column="28" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="33" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a9c10477c7bc98f12d0e087e47b7a5d13" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -68,7 +68,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="35" column="22" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="35" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="35" column="22" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="35" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1af43bd7600f000bafee6ca1bb07a42865" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -81,7 +81,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="37" column="24" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="37" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="37" column="24" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="37" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a9eb18d3d3adb8a6cd48469c43f4cf95a" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -94,7 +94,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="38" column="24" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="38" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="38" column="24" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="38" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1ac80e1dab9c81f899c117298c9adfc94f" prot="private" static="no" mutable="yes">
         <type>DynamicVar</type>
@@ -107,7 +107,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="40" column="24" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="40" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="40" column="24" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="40" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a30264998e0a41458559fb6b8d9a25079" prot="private" static="no" mutable="yes">
         <type>std::unordered_map&lt; std::tuple&lt; int, int &gt;, double &gt;</type>
@@ -120,7 +120,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="41" column="32" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="41" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="41" column="32" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="41" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a52cf04f8bcdcb02726025c86eae4e76a" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1modules_1_1cbm_1_1StandGrowthCurveFactory" kindref="compound">StandGrowthCurveFactory</ref> &gt;</type>
@@ -133,7 +133,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="43" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="43" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="43" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="43" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a4a8268fbfed90b3859375b3569d9b68f" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth" kindref="compound">VolumeToBiomassCarbonGrowth</ref> &gt;</type>
@@ -146,7 +146,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="44" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="44" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="44" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="44" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -169,7 +169,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="15" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="15" bodyend="16"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="15" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="15" bodyend="16"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1ac0a652d7fd514484aa74d3414acb704d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -186,7 +186,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="18" column="10" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="17" bodyend="21"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="18" column="10" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="17" bodyend="21"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a1d3750fa72721a04468f4dec431e2b2b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>flint::ModuleTypes</type>
@@ -199,7 +199,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="20" column="24" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="20" bodyend="20"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="20" column="24" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="20" bodyend="20"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a52f3a5680a093913b1b16a149a8c9691" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -213,7 +213,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="22" column="10" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="23" bodyend="30"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="22" column="10" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="23" bodyend="30"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a00eaecef1d13bb30fe8fc63f68a68f64" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -227,7 +227,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="23" column="10" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="32" bodyend="34"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="23" column="10" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="32" bodyend="34"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1ac4b849fa754e64982dfb4a0eb72b9582" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -241,7 +241,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="24" column="10" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="36" bodyend="76"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="24" column="10" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="36" bodyend="76"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -256,7 +256,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="27" column="12" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="78" bodyend="84"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="27" column="12" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standmaturitymodule.cpp" bodystart="78" bodyend="84"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -287,7 +287,7 @@
         </childnode>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="13" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="13" bodyend="45"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" line="13" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/standmaturitymodule.h" bodystart="13" bodyend="45"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a04ab8ceb8f4e27134a67b00651407426" prot="private" virt="non-virtual"><scope>moja::modules::cbm::StandMaturityModule</scope><name>_age</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1StandMaturityModule_1a52cf04f8bcdcb02726025c86eae4e76a" prot="private" virt="non-virtual"><scope>moja::modules::cbm::StandMaturityModule</scope><name>_gcFactory</name></member>

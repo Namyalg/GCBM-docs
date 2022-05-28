@@ -21,6 +21,28 @@
       <node id="7">
         <label>fstream</label>
       </node>
+      <node id="8">
+        <label>iostream</label>
+      </node>
+      <node id="6">
+        <label>moja/flint/outputerstreamflux.h</label>
+      </node>
+      <node id="11">
+        <label>moja/notificationcenter.h</label>
+      </node>
+      <node id="5">
+        <label>moja/hash.h</label>
+      </node>
+      <node id="1">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp</label>
+        <link refid="outputerstreamfluxpostnotify_8cpp"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+      </node>
       <node id="2">
         <label>moja/modules/cbm/outputerstreamfluxpostnotify.h</label>
         <link refid="outputerstreamfluxpostnotify_8h"/>
@@ -39,28 +61,6 @@
         <childnode refid="9" relation="include">
         </childnode>
       </node>
-      <node id="8">
-        <label>iostream</label>
-      </node>
-      <node id="6">
-        <label>moja/flint/outputerstreamflux.h</label>
-      </node>
-      <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp</label>
-        <link refid="outputerstreamfluxpostnotify_8cpp"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="10" relation="include">
-        </childnode>
-        <childnode refid="11" relation="include">
-        </childnode>
-      </node>
-      <node id="11">
-        <label>moja/notificationcenter.h</label>
-      </node>
-      <node id="5">
-        <label>moja/hash.h</label>
-      </node>
     </incdepgraph>
     <innernamespace refid="namespacemoja">moja</innernamespace>
     <innernamespace refid="namespacemoja_1_1modules">moja::modules</innernamespace>
@@ -75,7 +75,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" line="6" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" bodystart="6" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" line="6" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" bodystart="6" bodyend="-1"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -111,6 +111,6 @@
 <codeline lineno="26"><highlight class="normal"></highlight></codeline>
 <codeline lineno="27"><highlight class="normal">}}}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja::Modules::cbm</highlight><highlight class="normal"></highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp"/>
   </compounddef>
 </doxygen>

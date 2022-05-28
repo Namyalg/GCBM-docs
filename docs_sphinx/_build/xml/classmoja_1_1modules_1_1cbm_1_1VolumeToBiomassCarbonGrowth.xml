@@ -20,7 +20,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="22" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="22" bodyend="24"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="22" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="22" bodyend="24"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1a92560c0d478ee02a0301c232cb79cfc6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
         <type></type>
@@ -33,7 +33,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="26" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="26" bodyend="26"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="26" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="26" bodyend="26"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1aec80de3ffe87b61df853fb43ea5afec7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -50,7 +50,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="29" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="12" bodyend="41"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="29" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="12" bodyend="41"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1ae6f97095a17545f12e6d49f3d65365de" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>std::unordered_map&lt; std::string, double &gt;</type>
@@ -75,7 +75,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="32" column="28" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="43" bodyend="49"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="32" column="28" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="43" bodyend="49"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1afffa3c97ec64a720fe2d6415fe96b47a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>std::vector&lt; double &gt;</type>
@@ -96,7 +96,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="35" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="51" bodyend="55"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="35" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="51" bodyend="55"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1abb41bfcd8ed5ea7c8ebb326fd4946229" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>std::vector&lt; double &gt;</type>
@@ -117,7 +117,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="38" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="57" bodyend="61"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="38" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="57" bodyend="61"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1ad29f6b232a6e000e079c473f71688bbe" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -138,7 +138,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="41" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="7" bodyend="10"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="41" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="7" bodyend="10"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1a03f14d429e3a0b9fd8e382ec2d756450" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -155,7 +155,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="43" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="43" bodyend="43"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="43" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="43" bodyend="43"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1afe9fa77ddcf4265b35c35ca619d57390" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>Poco::SharedPtr&lt; <ref refid="classmoja_1_1modules_1_1cbm_1_1StandBiomassCarbonCurve" kindref="compound">StandBiomassCarbonCurve</ref> &gt;</type>
@@ -176,7 +176,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="45" column="25" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="63" bodyend="74"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="45" column="25" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/volumetobiomasscarbongrowth.cpp" bodystart="63" bodyend="74"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -191,7 +191,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="48" column="34" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="48" bodyend="51"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="48" column="34" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="48" bodyend="51"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1a625d015940c69cce4f76ce977acb8560" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>Poco::LRUCache&lt; std::tuple&lt; Int64, Int64 &gt;, <ref refid="classmoja_1_1modules_1_1cbm_1_1StandBiomassCarbonCurve" kindref="compound">StandBiomassCarbonCurve</ref> &gt; &amp;</type>
@@ -204,7 +204,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="53" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="53" bodyend="56"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="53" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="53" bodyend="56"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -217,7 +217,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="20" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="20" bodyend="58"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" line="20" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/volumetobiomasscarbongrowth.h" bodystart="20" bodyend="58"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1aec80de3ffe87b61df853fb43ea5afec7" prot="public" virt="non-virtual"><scope>moja::modules::cbm::VolumeToBiomassCarbonGrowth</scope><name>generateBiomassCarbonCurve</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1VolumeToBiomassCarbonGrowth_1afffa3c97ec64a720fe2d6415fe96b47a" prot="public" virt="non-virtual"><scope>moja::modules::cbm::VolumeToBiomassCarbonGrowth</scope><name>getAboveGroundCarbonCurve</name></member>

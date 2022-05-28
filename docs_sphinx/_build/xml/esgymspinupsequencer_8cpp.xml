@@ -14,23 +14,22 @@
       <node id="24">
         <label>boost/algorithm/string.hpp</label>
       </node>
+      <node id="10">
+        <label>moja/modules/cbm/cbmdisturbanceeventmodule.h</label>
+        <link refid="cbmdisturbanceeventmodule_8h"/>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="20" relation="include">
+        </childnode>
+      </node>
       <node id="4">
         <label>moja/modules/cbm/_modules.cbm_exports.h</label>
-      </node>
-      <node id="18">
-        <label>moja/flint/ivariable.h</label>
-      </node>
-      <node id="6">
-        <label>moja/flint/itiming.h</label>
-      </node>
-      <node id="23">
-        <label>moja/signals.h</label>
-      </node>
-      <node id="12">
-        <label>moja/flint/modulebase.h</label>
-      </node>
-      <node id="20">
-        <label>unordered_set</label>
       </node>
       <node id="2">
         <label>moja/modules/cbm/esgymspinupsequencer.h</label>
@@ -50,19 +49,38 @@
         <childnode refid="9" relation="include">
         </childnode>
       </node>
-      <node id="10">
-        <label>moja/modules/cbm/cbmdisturbanceeventmodule.h</label>
-        <link refid="cbmdisturbanceeventmodule_8h"/>
+      <node id="18">
+        <label>moja/flint/ivariable.h</label>
+      </node>
+      <node id="6">
+        <label>moja/flint/itiming.h</label>
+      </node>
+      <node id="23">
+        <label>moja/signals.h</label>
+      </node>
+      <node id="12">
+        <label>moja/flint/modulebase.h</label>
+      </node>
+      <node id="16">
+        <label>moja/modules/cbm/cbmdisturbancelistener.h</label>
+        <link refid="cbmdisturbancelistener_8h"/>
         <childnode refid="11" relation="include">
         </childnode>
-        <childnode refid="16" relation="include">
-        </childnode>
         <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
         </childnode>
         <childnode refid="3" relation="include">
         </childnode>
         <childnode refid="20" relation="include">
         </childnode>
+      </node>
+      <node id="20">
+        <label>unordered_set</label>
       </node>
       <node id="5">
         <label>moja/datetime.h</label>
@@ -88,35 +106,14 @@
         <childnode refid="15" relation="include">
         </childnode>
       </node>
-      <node id="16">
-        <label>moja/modules/cbm/cbmdisturbancelistener.h</label>
-        <link refid="cbmdisturbancelistener_8h"/>
-        <childnode refid="11" relation="include">
-        </childnode>
-        <childnode refid="17" relation="include">
-        </childnode>
-        <childnode refid="18" relation="include">
-        </childnode>
-        <childnode refid="19" relation="include">
-        </childnode>
-        <childnode refid="6" relation="include">
-        </childnode>
-        <childnode refid="3" relation="include">
-        </childnode>
-        <childnode refid="20" relation="include">
-        </childnode>
-      </node>
       <node id="3">
         <label>unordered_map</label>
       </node>
       <node id="9">
         <label>moja/pocojsonutils.h</label>
       </node>
-      <node id="22">
-        <label>moja/logging.h</label>
-      </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/esgymspinupsequencer.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/esgymspinupsequencer.cpp</label>
         <link refid="esgymspinupsequencer_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -134,6 +131,9 @@
         </childnode>
         <childnode refid="24" relation="include">
         </childnode>
+      </node>
+      <node id="22">
+        <label>moja/logging.h</label>
       </node>
       <node id="15">
         <label>boost/exception_ptr.hpp</label>
@@ -396,6 +396,6 @@
 <codeline lineno="235"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="236"><highlight class="normal">}}}</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/esgymspinupsequencer.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/esgymspinupsequencer.cpp"/>
   </compounddef>
 </doxygen>

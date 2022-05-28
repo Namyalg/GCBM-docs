@@ -10,7 +10,7 @@
         <label>moja/flint/ivariable.h</label>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmlandunitdatatransform.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmlandunitdatatransform.cpp</label>
         <link refid="cbmlandunitdatatransform_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -103,6 +103,6 @@
 <codeline lineno="81"><highlight class="normal">}}}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja::Modules::SLEEK</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="82"><highlight class="normal"></highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmlandunitdatatransform.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmlandunitdatatransform.cpp"/>
   </compounddef>
 </doxygen>

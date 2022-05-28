@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="90" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="90" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="90" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="90" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-attrib">
@@ -32,7 +32,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="24" column="19" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="24" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="24" column="19" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="24" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a4c1c1af8ce6364ef3af6a1f5f6b3b575" prot="public" static="no" mutable="no">
         <type>const std::string</type>
@@ -46,7 +46,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="25" column="19" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="25" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="25" column="19" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="25" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a6d3cdb0a6912e4904d1a69bbfe9ea3d9" prot="public" static="no" mutable="no">
         <type>const std::string</type>
@@ -60,7 +60,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="26" column="19" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="26" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="26" column="19" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="26" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a336a61303377faf59f5dad0ff05692b1" prot="public" static="no" mutable="no">
         <type>const std::string</type>
@@ -74,7 +74,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="27" column="19" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="27" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="27" column="19" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="27" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a134aa7970c90a369a6eaf698e8c5d313" prot="public" static="no" mutable="no">
         <type>const std::string</type>
@@ -88,7 +88,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="28" column="19" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="28" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="28" column="19" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="28" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1ae11a119e44bbc13c058348382245fdfa" prot="public" static="no" mutable="no">
         <type>const std::string</type>
@@ -102,7 +102,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="29" column="19" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="29" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="29" column="19" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="29" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-attrib">
@@ -117,7 +117,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="45" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="45" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="45" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="45" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a511e4f56e0b86c78aeb2c5833af6e515" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -130,7 +130,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="46" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="46" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="46" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="46" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1ad1dc3bdfa226492a029feb4592a5d711" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -143,7 +143,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="47" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="47" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="47" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="47" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a112cda4a2ec5080f4631418263ab294a" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -156,7 +156,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="48" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="48" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="48" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="48" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a00e6812bb12da51e18868b00a42b5436" prot="private" static="no" mutable="no">
         <type>const std::set&lt; std::string &gt;</type>
@@ -181,7 +181,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="50" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="50" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="50" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="50" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a288ba2e2a55298302c348196fdc75cd8" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -194,7 +194,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="63" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="63" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="63" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="63" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a459ec1d23d345c238b452692d52000a1" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -207,7 +207,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="64" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="64" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="64" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="64" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1aa46caaa809a0438cccbff4226072d459" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -220,7 +220,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="65" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="65" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="65" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="65" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1af27823b2ae94aab42492a5619b4b342c" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -233,7 +233,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="66" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="66" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="66" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="66" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1ad362aafa81a7fcb36996d6107914e281" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -246,7 +246,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="67" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="67" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="67" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="67" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1acf0f33d7d7092d81d017522ccc0bfc73" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -259,7 +259,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="68" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="68" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="68" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="68" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a2504a2f1fc05268b8c3397923d364897" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -272,7 +272,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="69" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="69" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="69" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="69" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1af047dca06211cd7b3324f25f3d821af0" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -286,7 +286,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="70" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="70" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="70" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="70" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1aa2f831d17b8e06ad1cdca2e072ab5938" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -299,7 +299,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="71" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="71" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="71" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="71" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1af52fa6e954bddc3e40060cb8d26795fb" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -313,7 +313,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="73" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="73" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="73" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="73" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a118f9cca58583a6a30dd8043c8676d68" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -327,7 +327,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="74" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="74" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="74" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="74" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a1ced966eb10ee9aa3bb107c0870e268c" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -341,7 +341,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="75" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="75" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="75" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="75" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1ad048d5c5a610ac189b403f7cf729f31d" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -355,7 +355,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="76" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="76" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="76" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="76" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a8dcd080da9248a04c0517bc308036012" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -369,7 +369,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="77" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="77" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="77" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="77" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1af5c5180056b251e76ef1ff5ab8677a4e" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -383,7 +383,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="78" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="78" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="78" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="78" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a17b2db25d1e38add76f51ddf3c5e93c8" prot="private" static="no" mutable="no">
         <type>std::string</type>
@@ -396,7 +396,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="79" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="79" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="79" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="79" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a28b6f3014ca415f9cd55d4a08a116adf" prot="private" static="no" mutable="no">
         <type>std::string</type>
@@ -409,7 +409,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="80" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="80" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="80" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="80" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1ad4d0116855ee062c3ff5b63fd4375081" prot="private" static="no" mutable="no">
         <type>std::unordered_map&lt; std::string, int &gt;</type>
@@ -422,7 +422,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="81" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="81" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="81" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="81" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a9f10a8569617ae6021fa74a197bcb1fb" prot="private" static="no" mutable="no">
         <type>Poco::Nullable&lt; DateTime &gt;</type>
@@ -435,7 +435,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="87" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="87" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="87" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="87" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1abebc5416f0cda5a8aa5f74ed18f6f6ce" prot="private" static="no" mutable="no">
         <type>std::unordered_map&lt; <ref refid="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a4afc6b4c1867845a0029e40e6d48af25" kindref="member">CacheKey</ref>, std::vector&lt; double &gt;, moja::Hash &gt;</type>
@@ -448,7 +448,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="91" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="91" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="91" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="91" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -463,7 +463,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="21" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="21" bodyend="21"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="21" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="21" bodyend="21"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a990d2bcdf0494c433e8857be2c72743f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
         <type></type>
@@ -476,7 +476,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="22" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="22" bodyend="22"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="22" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="22" bodyend="22"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a8e61a518a587bf5dd73571c112b23e46" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -493,7 +493,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="31" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="31" bodyend="36"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="31" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="31" bodyend="36"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1aa3fd0d90fcd890cfa1effb2c3f174219" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -510,7 +510,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="38" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="38" bodyend="40"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="38" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="38" bodyend="40"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a279ecb58835310887ac15237e5434a96" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -531,7 +531,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="42" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="112" bodyend="225"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="42" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="112" bodyend="225"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -550,7 +550,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="94" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="25" bodyend="110"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="94" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="25" bodyend="110"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1ae9eaaa0381bc5702a1c52eb9ac5a1317" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -575,7 +575,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="97" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="342" bodyend="578"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="97" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="342" bodyend="578"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1ace5433ca6ab84422bd60c128815c972e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -596,7 +596,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="100" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="227" bodyend="340"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="100" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="227" bodyend="340"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a82812e34818a8abac2569a909516ff84" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -617,7 +617,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="103" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="580" bodyend="587"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="103" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="580" bodyend="587"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a9ed17a4a5e776231ce43d1207eb2e963" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -630,7 +630,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="106" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="629" bodyend="678"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="106" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="629" bodyend="678"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a970b66f4af026ad5331ada61ecaa3cc0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -647,7 +647,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="109" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="680" bodyend="704"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="109" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="680" bodyend="704"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a61d638b1dbed3eae016cf028ed196622" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -676,7 +676,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="112" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="589" bodyend="610"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="112" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="589" bodyend="610"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a45fabc63030380373508a37c5a610f0c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -701,7 +701,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="118" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="612" bodyend="627"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="118" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupsequencer.cpp" bodystart="612" bodyend="627"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -714,7 +714,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="19" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="19" bodyend="121"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" line="19" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupsequencer.h" bodystart="19" bodyend="121"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1aead02a514f3310faa46ef8ed56cf4197" prot="private" virt="non-virtual"><scope>moja::modules::cbm::CBMSpinupSequencer</scope><name>_aboveGroundSlowSoil</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1CBMSpinupSequencer_1a288ba2e2a55298302c348196fdc75cd8" prot="private" virt="non-virtual"><scope>moja::modules::cbm::CBMSpinupSequencer</scope><name>_age</name></member>

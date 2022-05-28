@@ -26,6 +26,9 @@
       <node id="20">
         <label>moja/flint/ivariable.h</label>
       </node>
+      <node id="22">
+        <label>moja/signals.h</label>
+      </node>
       <node id="4">
         <label>moja/modules/cbm/record.h</label>
         <link refid="record_8h"/>
@@ -42,9 +45,6 @@
         <childnode refid="9" relation="include">
         </childnode>
       </node>
-      <node id="22">
-        <label>moja/signals.h</label>
-      </node>
       <node id="11">
         <label>moja/flint/modulebase.h</label>
       </node>
@@ -59,6 +59,21 @@
       </node>
       <node id="17">
         <label>moja/flint/recordaccumulatorwithmutex.h</label>
+      </node>
+      <node id="18">
+        <label>moja/flint/ilandunitdatawrapper.h</label>
+      </node>
+      <node id="5">
+        <label>moja/types.h</label>
+      </node>
+      <node id="9">
+        <label>optional</label>
+      </node>
+      <node id="8">
+        <label>vector</label>
+      </node>
+      <node id="16">
+        <label>pqxx/pqxx</label>
       </node>
       <node id="2">
         <label>moja/modules/cbm/cbmaggregatorlibpqxxwriter.h</label>
@@ -76,21 +91,6 @@
         <childnode refid="8" relation="include">
         </childnode>
       </node>
-      <node id="18">
-        <label>moja/flint/ilandunitdatawrapper.h</label>
-      </node>
-      <node id="5">
-        <label>moja/types.h</label>
-      </node>
-      <node id="9">
-        <label>optional</label>
-      </node>
-      <node id="8">
-        <label>vector</label>
-      </node>
-      <node id="16">
-        <label>pqxx/pqxx</label>
-      </node>
       <node id="12">
         <label>moja/flint/flintexceptions.h</label>
       </node>
@@ -107,7 +107,7 @@
         </childnode>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp</label>
         <link refid="cbmaggregatorlibpqxxwriter_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -393,6 +393,6 @@
 <codeline lineno="321"><highlight class="normal"></highlight></codeline>
 <codeline lineno="322"><highlight class="normal">}}}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja::modules::cbm</highlight><highlight class="normal"></highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp"/>
   </compounddef>
 </doxygen>

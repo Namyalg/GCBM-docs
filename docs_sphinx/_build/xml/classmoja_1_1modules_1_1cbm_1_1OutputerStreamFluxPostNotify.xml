@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="21" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" bodystart="21" bodyend="21"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="21" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" bodystart="21" bodyend="21"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1OutputerStreamFluxPostNotify_1aab3df7658060ebe1d522abbf81372d53" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
         <type></type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="22" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" bodystart="22" bodyend="22"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="22" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" bodystart="22" bodyend="22"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1OutputerStreamFluxPostNotify_1a8e61a518a587bf5dd73571c112b23e46" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -46,7 +46,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="24" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" bodystart="15" bodyend="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="24" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" bodystart="15" bodyend="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1OutputerStreamFluxPostNotify_1ac0a652d7fd514484aa74d3414acb704d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -63,7 +63,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="25" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" bodystart="19" bodyend="21"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="25" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" bodystart="19" bodyend="21"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1OutputerStreamFluxPostNotify_1accf3b69cdd4d11d7a12d000d979d94d1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -80,7 +80,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="27" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" bodystart="23" bodyend="25"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="27" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreamfluxpostnotify.cpp" bodystart="23" bodyend="25"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -93,7 +93,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1OutputerStreamFluxPostNotify"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="19" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" bodystart="19" bodyend="28"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" line="19" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/outputerstreamfluxpostnotify.h" bodystart="19" bodyend="28"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1OutputerStreamFluxPostNotify_1a8e61a518a587bf5dd73571c112b23e46" prot="public" virt="non-virtual"><scope>moja::modules::cbm::OutputerStreamFluxPostNotify</scope><name>configure</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1OutputerStreamFluxPostNotify_1accf3b69cdd4d11d7a12d000d979d94d1" prot="public" virt="non-virtual"><scope>moja::modules::cbm::OutputerStreamFluxPostNotify</scope><name>onPostNotification</name></member>

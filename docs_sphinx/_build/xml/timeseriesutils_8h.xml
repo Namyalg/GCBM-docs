@@ -38,7 +38,7 @@
         </childnode>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/timeseriesutils.h</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/timeseriesutils.h</label>
         <link refid="timeseriesutils_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -139,6 +139,6 @@
 <codeline lineno="98"><highlight class="normal"></highlight></codeline>
 <codeline lineno="99"><highlight class="normal"></highlight><highlight class="preprocessor">#endif<sp/></highlight><highlight class="comment">//<sp/>MOJA_MODULES_CBM_TIMESERIESUTILS_H_</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/timeseriesutils.h"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/timeseriesutils.h"/>
   </compounddef>
 </doxygen>

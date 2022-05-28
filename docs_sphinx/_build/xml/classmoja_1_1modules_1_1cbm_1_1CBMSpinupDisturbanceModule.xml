@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="28" column="29" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="28" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="28" column="29" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="28" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a26a2083f21c858c3d4474c7901a6560a" prot="private" static="no">
         <type>std::unordered_map&lt; int, <ref refid="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a9d16c34bd2d03488ad069f22415338bb" kindref="member">EventVector</ref> &gt;</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="29" column="36" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="29" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="29" column="36" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="29" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-attrib">
@@ -44,7 +44,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="31" column="26" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="31" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="31" column="26" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="31" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a6ac8fb0c727e3b328dc8fabd9ea2f95c" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -57,7 +57,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="32" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="32" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="32" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="32" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a896ad436af10a648fd62935f102f66b2" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a26a2083f21c858c3d4474c7901a6560a" kindref="member">EventMap</ref></type>
@@ -70,7 +70,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="33" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="33" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="33" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="33" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a0901968fcd7e8533115ecfef188a9b49" prot="private" static="no" mutable="no">
         <type>std::unordered_map&lt; std::pair&lt; std::string, int &gt;, int &gt;</type>
@@ -83,7 +83,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="34" column="28" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="34" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="34" column="28" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="34" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -98,7 +98,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="17" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="17" bodyend="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="17" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="17" bodyend="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a897f87b6bb8bdcaed1726254e9b47f33" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
         <type></type>
@@ -111,7 +111,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="18" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="18" bodyend="18"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="18" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="18" bodyend="18"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a8e61a518a587bf5dd73571c112b23e46" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -128,7 +128,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="20" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="17" bodyend="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="20" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="17" bodyend="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1ac0a652d7fd514484aa74d3414acb704d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -145,7 +145,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="21" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="19" bodyend="23"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="21" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="19" bodyend="23"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a55cb5c7b6faa6e8e495470986e77c084" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -163,7 +163,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="23" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="35" bodyend="82"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="23" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="35" bodyend="82"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a52f3a5680a093913b1b16a149a8c9691" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -177,7 +177,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="24" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="25" bodyend="29"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="24" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="25" bodyend="29"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a00eaecef1d13bb30fe8fc63f68a68f64" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -191,7 +191,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="25" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="31" bodyend="33"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="25" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="31" bodyend="33"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -206,7 +206,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="36" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="84" bodyend="103"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="36" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="84" bodyend="103"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a8e5ff0f879c66104d9d72c49e573bfa7" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -219,7 +219,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="37" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="105" bodyend="118"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="37" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmspinupdisturbancemodule.cpp" bodystart="105" bodyend="118"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -250,7 +250,7 @@
         </childnode>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="15" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="15" bodyend="38"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" line="15" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmspinupdisturbancemodule.h" bodystart="15" bodyend="38"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a0901968fcd7e8533115ecfef188a9b49" prot="private" virt="non-virtual"><scope>moja::modules::cbm::CBMSpinupDisturbanceModule</scope><name>_dmAssociations</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1CBMSpinupDisturbanceModule_1a896ad436af10a648fd62935f102f66b2" prot="private" virt="non-virtual"><scope>moja::modules::cbm::CBMSpinupDisturbanceModule</scope><name>_matrices</name></member>

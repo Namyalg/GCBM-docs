@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="28" column="19" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="28" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="28" column="19" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="28" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a98a6ebe7e0eba664ec47b1f57d3c99be" prot="private" static="no" mutable="no">
         <type>std::list&lt; std::shared_ptr&lt; <ref refid="classmoja_1_1modules_1_1cbm_1_1IRecoveryRule" kindref="compound">IRecoveryRule</ref> &gt; &gt;</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="29" column="19" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="29" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="29" column="19" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="29" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1ac2419dd3cd6d107d220bbda39ccab25c" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -43,7 +43,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="30" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="30" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="30" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="30" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a6ac8fb0c727e3b328dc8fabd9ea2f95c" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -56,7 +56,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="31" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="31" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="31" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="31" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a91bdc72c7f5ffd34697b6e4e68861195" prot="private" static="no" mutable="no">
         <type>std::map&lt; std::string, std::map&lt; int, double &gt; &gt;</type>
@@ -69,7 +69,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="32" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="32" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="32" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="32" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1ae1b3bc7e67bb44c338ae5c1c58baf17d" prot="private" static="no" mutable="no">
         <type>std::map&lt; std::string, std::string &gt;</type>
@@ -82,7 +82,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="33" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="33" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="33" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="33" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a948117ea63246a0d15b3a8db6e57d144" prot="private" static="no" mutable="no">
         <type>std::map&lt; std::string, std::map&lt; int, std::tuple&lt; std::string, DynamicVar &gt; &gt; &gt;</type>
@@ -95,7 +95,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="34" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="34" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="34" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="34" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1ad6fa4d215a9ce6187f4687e0df278a88" prot="private" static="no" mutable="no">
         <type>std::map&lt; std::string, std::map&lt; int, std::tuple&lt; std::string, DynamicVar &gt; &gt; &gt;</type>
@@ -108,7 +108,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="35" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="35" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="35" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="35" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a520b6c37d8489ea667da597bad4654de" prot="private" static="no" mutable="no">
         <type>std::vector&lt; const flint::IPool * &gt;</type>
@@ -121,7 +121,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="37" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="37" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="37" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="37" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a8fd9f8c8125f02f0361d955c9199ef4d" prot="private" static="no" mutable="no">
         <type>std::vector&lt; const flint::IPool * &gt;</type>
@@ -134,7 +134,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="38" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="38" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="38" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="38" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a77143dd664a36e795aa29f7694815504" prot="private" static="no" mutable="no">
         <type>std::vector&lt; const flint::IPool * &gt;</type>
@@ -147,7 +147,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="39" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="39" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="39" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="39" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a3424e1d107dc6d7d6aafcabafd2fe47d" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -160,7 +160,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="41" column="26" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="41" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="41" column="26" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="41" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a3ed7c715d222a97074067306a7b1471f" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -173,7 +173,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="42" column="26" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="42" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="42" column="26" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="42" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1acf0f33d7d7092d81d017522ccc0bfc73" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -186,7 +186,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="43" column="26" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="43" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="43" column="26" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="43" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -201,7 +201,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="17" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="17" bodyend="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="17" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="17" bodyend="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a65d7a8cceceeee32fca2f5d14f647244" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
         <type></type>
@@ -214,7 +214,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="18" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="18" bodyend="18"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="18" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="18" bodyend="18"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1ac0a652d7fd514484aa74d3414acb704d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -231,7 +231,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="20" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="58" bodyend="63"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="20" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="58" bodyend="63"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a52f3a5680a093913b1b16a149a8c9691" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -245,7 +245,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="22" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="65" bodyend="109"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="22" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="65" bodyend="109"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a00eaecef1d13bb30fe8fc63f68a68f64" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -259,7 +259,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="23" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="111" bodyend="132"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="23" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="111" bodyend="132"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1aebf66910085b501e92872eb9e102d597" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -277,7 +277,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="24" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="134" bodyend="143"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="24" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="134" bodyend="143"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1ad889c60334b0d6acf0797321f79dfd95" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -291,7 +291,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="25" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="189" bodyend="211"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="25" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="189" bodyend="211"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -306,7 +306,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="45" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="213" bodyend="242"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="45" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="213" bodyend="242"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a2e5afdb8416d32b91ff08283ac2ea66e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1modules_1_1cbm_1_1IRecoveryRule" kindref="compound">IRecoveryRule</ref> &gt;</type>
@@ -323,7 +323,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="47" column="25" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="244" bodyend="272"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="47" column="25" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="244" bodyend="272"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a0c5773c2f10945396b449ad2bbd3a924" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1modules_1_1cbm_1_1IRecoveryRule" kindref="compound">IRecoveryRule</ref> &gt;</type>
@@ -340,7 +340,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="48" column="25" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="274" bodyend="323"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="48" column="25" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="274" bodyend="323"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a64edbfd177fd40352bbfc5bc18efbab4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -361,7 +361,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="50" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="145" bodyend="169"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="50" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="145" bodyend="169"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a3c49cb7e0b9b611a28fe0f73636bee49" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -378,7 +378,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="51" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="171" bodyend="187"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="51" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="171" bodyend="187"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -409,7 +409,7 @@
         </childnode>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="15" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="15" bodyend="52"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" line="15" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h" bodystart="15" bodyend="52"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a7184fe463f4d1c23a6aa21de77e14ed2" prot="private" virt="non-virtual"><scope>moja::modules::cbm::CBMPartitioningModule</scope><name>_activeRecoveryRules</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1CBMPartitioningModule_1a520b6c37d8489ea667da597bad4654de" prot="private" virt="non-virtual"><scope>moja::modules::cbm::CBMPartitioningModule</scope><name>_agBiomassPools</name></member>

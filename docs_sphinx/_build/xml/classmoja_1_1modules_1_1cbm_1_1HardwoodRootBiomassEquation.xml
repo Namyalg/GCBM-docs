@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="92" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="92" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="92" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="92" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1HardwoodRootBiomassEquation_1abd8ae0ce2b7806365cfc642c0d164844" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="93" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="93" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="93" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="93" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1HardwoodRootBiomassEquation_1adcbb016ff7bcf68e5ea6ac4d0d23fbb0" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -42,7 +42,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="94" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="94" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="94" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="94" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1HardwoodRootBiomassEquation_1a3295b0b05eda1255f253121c2aa34937" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -55,7 +55,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="95" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="95" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="95" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="95" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1HardwoodRootBiomassEquation_1a88be2135a866ab28003de8d2552bc536" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -68,7 +68,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="96" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="96" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="96" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="96" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -103,7 +103,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="72" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="72" bodyend="74"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="72" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="72" bodyend="74"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1HardwoodRootBiomassEquation_1adbabc989abfd6cc709a64e5520534d28" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type></type>
@@ -116,7 +116,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="76" column="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="76" column="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1HardwoodRootBiomassEquation_1aa5ad559a194ad49b6adff417cfcd92d3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
         <type>double</type>
@@ -134,7 +134,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="78" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="78" bodyend="81"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="78" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="78" bodyend="81"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1HardwoodRootBiomassEquation_1a0c0afe0c6d6307bd1c048946a61f1da4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="virtual">
         <type><ref refid="structmoja_1_1modules_1_1cbm_1_1RootProportions" kindref="compound">RootProportions</ref></type>
@@ -152,7 +152,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="83" column="32" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="83" bodyend="89"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="83" column="32" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="83" bodyend="89"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -183,7 +183,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1RootBiomassEquation"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="70" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="70" bodyend="97"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" line="70" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/rootbiomassequation.h" bodystart="70" bodyend="97"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1RootBiomassEquation_1ac4b2ac30d9b51950bfc15cb5e5baa7ee" prot="protected" virt="non-virtual"><scope>moja::modules::cbm::HardwoodRootBiomassEquation</scope><name>_biomassToCarbonRate</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1HardwoodRootBiomassEquation_1adcbb016ff7bcf68e5ea6ac4d0d23fbb0" prot="private" virt="non-virtual"><scope>moja::modules::cbm::HardwoodRootBiomassEquation</scope><name>_frpA</name></member>

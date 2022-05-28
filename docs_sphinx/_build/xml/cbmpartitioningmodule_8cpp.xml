@@ -21,11 +21,8 @@
       <node id="6">
         <label>moja/flint/modulebase.h</label>
       </node>
-      <node id="11">
-        <label>moja/flint/timing.h</label>
-      </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp</label>
         <link refid="cbmpartitioningmodule_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -39,6 +36,9 @@
         </childnode>
         <childnode refid="14" relation="include">
         </childnode>
+      </node>
+      <node id="11">
+        <label>moja/flint/timing.h</label>
       </node>
       <node id="7">
         <label>moja/flint/flintexceptions.h</label>
@@ -61,9 +61,6 @@
       <node id="9">
         <label>boost/exception_ptr.hpp</label>
       </node>
-      <node id="12">
-        <label>moja/flint/ipool.h</label>
-      </node>
       <node id="2">
         <label>moja/modules/cbm/cbmpartitioningmodule.h</label>
         <link refid="cbmpartitioningmodule_8h"/>
@@ -73,6 +70,9 @@
         </childnode>
         <childnode refid="5" relation="include">
         </childnode>
+      </node>
+      <node id="12">
+        <label>moja/flint/ipool.h</label>
       </node>
       <node id="14">
         <label>moja/notificationcenter.h</label>
@@ -418,6 +418,6 @@
 <codeline lineno="324"><highlight class="normal"></highlight></codeline>
 <codeline lineno="325"><highlight class="normal">}}}</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp"/>
   </compounddef>
 </doxygen>

@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" line="15" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="15" bodyend="15"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" line="15" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="15" bodyend="15"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1IRecoveryRule_1a2583f101bfac83613bc4016c6a98b9ae" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
         <type>bool</type>
@@ -31,7 +31,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" line="16" column="22"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" line="16" column="22"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -62,7 +62,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1IRecoveryRule"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" line="13" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="13" bodyend="17"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" line="13" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp" bodystart="13" bodyend="17"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1IRecoveryRule_1a2583f101bfac83613bc4016c6a98b9ae" prot="public" virt="pure-virtual"><scope>moja::modules::cbm::IRecoveryRule</scope><name>isSatisfied</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1IRecoveryRule_1a81d41f11dd2ae61da4b3abd44e097726" prot="public" virt="virtual"><scope>moja::modules::cbm::IRecoveryRule</scope><name>~IRecoveryRule</name></member>

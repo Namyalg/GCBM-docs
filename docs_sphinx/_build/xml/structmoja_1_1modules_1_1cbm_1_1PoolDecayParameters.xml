@@ -15,7 +15,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="13" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="13" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="13" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="13" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1af97fbcba942e76cf4726cfcecf97f901" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -28,7 +28,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="14" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="14" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="14" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="14" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1a0a2aa0090103c9325b35e7342f61c8c5" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -41,7 +41,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="15" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="15" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="15" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="15" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1acc3eca249f7909ee664f306755a4c1ba" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -54,7 +54,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="16" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="16" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="16" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="16" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1a1b428cc334a7cb93efe1cfe450d4534a" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -67,7 +67,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="17" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="17" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="17" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="17" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1a9c48dcdbd06245f403aef78bb91db347" prot="public" static="no" mutable="no">
         <type>double</type>
@@ -80,7 +80,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="18" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="18" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="18" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="18" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -95,7 +95,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="20" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="20" bodyend="20"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="20" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="20" bodyend="20"/>
       </memberdef>
       <memberdef kind="function" id="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1a6090b660af6095f9d5ba1d7accd79cb7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
@@ -112,7 +112,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="22" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="22" bodyend="29"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="22" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="22" bodyend="29"/>
       </memberdef>
       <memberdef kind="function" id="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1ac536db779e02fce877a41ec95497127b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>double</type>
@@ -129,7 +129,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="31" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="31" bodyend="35"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="31" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="31" bodyend="35"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -142,7 +142,7 @@
         <link refid="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="12" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="12" bodyend="36"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" line="12" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdecaymodule.h" bodystart="12" bodyend="36"/>
     <listofallmembers>
       <member refid="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1af97fbcba942e76cf4726cfcecf97f901" prot="public" virt="non-virtual"><scope>moja::modules::cbm::PoolDecayParameters</scope><name>baseDecayRate</name></member>
       <member refid="structmoja_1_1modules_1_1cbm_1_1PoolDecayParameters_1ac536db779e02fce877a41ec95497127b" prot="public" virt="non-virtual"><scope>moja::modules::cbm::PoolDecayParameters</scope><name>getDecayRate</name></member>

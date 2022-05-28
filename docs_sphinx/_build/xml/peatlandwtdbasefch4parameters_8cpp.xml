@@ -7,12 +7,10 @@
       <node id="3">
         <label>moja/modules/cbm/_modules.cbm_exports.h</label>
       </node>
-      <node id="5">
-        <label>moja/modules/cbm/peatlandparameters.h</label>
-        <link refid="peatlandparameters_8h"/>
-        <childnode refid="3" relation="include">
-        </childnode>
-        <childnode refid="4" relation="include">
+      <node id="1">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/peatlandwtdbasefch4parameters.cpp</label>
+        <link refid="peatlandwtdbasefch4parameters_8cpp"/>
+        <childnode refid="2" relation="include">
         </childnode>
       </node>
       <node id="4">
@@ -28,10 +26,12 @@
         <childnode refid="5" relation="include">
         </childnode>
       </node>
-      <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/peatlandwtdbasefch4parameters.cpp</label>
-        <link refid="peatlandwtdbasefch4parameters_8cpp"/>
-        <childnode refid="2" relation="include">
+      <node id="5">
+        <label>moja/modules/cbm/peatlandparameters.h</label>
+        <link refid="peatlandparameters_8h"/>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
         </childnode>
       </node>
     </incdepgraph>
@@ -64,6 +64,6 @@
 <codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="24"><highlight class="normal">}}}</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/peatlandwtdbasefch4parameters.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/peatlandwtdbasefch4parameters.cpp"/>
   </compounddef>
 </doxygen>

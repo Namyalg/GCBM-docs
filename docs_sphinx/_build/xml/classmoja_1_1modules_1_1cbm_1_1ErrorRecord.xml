@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="300" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="300" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="300" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="300" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1a2fb68a5ecd23366882be5277b8ac3c65" prot="private" static="no" mutable="no">
         <type>Int64</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="301" column="7" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="301" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="301" column="7" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="301" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1ac01ca554d3611d1a408d52b3eaf8d004" prot="private" static="no" mutable="no">
         <type>std::string</type>
@@ -42,7 +42,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="304" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="304" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="304" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="304" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1a675a1ab0f89c56317181987e8d345842" prot="private" static="no" mutable="no">
         <type>std::string</type>
@@ -55,7 +55,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="305" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="305" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="305" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="305" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -78,7 +78,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="288" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/record.cpp" bodystart="305" bodyend="306"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="288" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/record.cpp" bodystart="305" bodyend="306"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1a8220344f5ae47bf6f5e2c477363d2c06" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
@@ -91,7 +91,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="289" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="289" bodyend="289"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="289" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="289" bodyend="289"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1ae4b9ab00a14e30757c245dd399ac05b8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -108,7 +108,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="291" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/record.cpp" bodystart="308" bodyend="311"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="291" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/record.cpp" bodystart="308" bodyend="311"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1af8b25e3bbd7a1de76708519cbf2de5e8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>size_t</type>
@@ -121,7 +121,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="292" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/record.cpp" bodystart="313" bodyend="319"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="292" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/record.cpp" bodystart="313" bodyend="319"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1a08e0479f73dd1a8c1ac7f06b61e914b1" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type><ref refid="namespacemoja_1_1modules_1_1cbm_1a218123fa36c0105bd489b91355ca7d48" kindref="member">ErrorRow</ref></type>
@@ -134,7 +134,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="293" column="10" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/record.cpp" bodystart="321" bodyend="323"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="293" column="10" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/record.cpp" bodystart="321" bodyend="323"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1a6c13e5a14752942c6e2f6e3077907199" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type><ref refid="namespacemoja_1_1modules_1_1cbm_1ae623a5677fc5b40e723181fda9d70048" kindref="member">StdErrorRow</ref></type>
@@ -147,7 +147,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="294" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/record.cpp" bodystart="325" bodyend="327"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="294" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/record.cpp" bodystart="325" bodyend="327"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1a5ffb36208b0bc7e336afb7cf7a86ea89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -164,7 +164,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="295" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="295" bodyend="295"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="295" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="295" bodyend="295"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1a8cd662275c1ba5248e9f9e1f33f68a07" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -181,7 +181,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="296" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="296" bodyend="296"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="296" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="296" bodyend="296"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1abc8970ad0a18fb9dc512a7eff9184997" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>Int64</type>
@@ -194,7 +194,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="297" column="7" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="297" bodyend="297"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="297" column="7" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="297" bodyend="297"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -207,7 +207,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1ErrorRecord"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" line="286" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="286" bodyend="306"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" line="286" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/record.h" bodystart="286" bodyend="306"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1a675a1ab0f89c56317181987e8d345842" prot="private" virt="non-virtual"><scope>moja::modules::cbm::ErrorRecord</scope><name>_error</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1ErrorRecord_1ae059dfbd9014bb0672749a5fdb785c6e" prot="private" virt="non-virtual"><scope>moja::modules::cbm::ErrorRecord</scope><name>_hash</name></member>

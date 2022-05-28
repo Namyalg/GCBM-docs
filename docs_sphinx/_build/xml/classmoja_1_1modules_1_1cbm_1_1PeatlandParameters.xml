@@ -20,7 +20,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="31" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="31" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="31" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="31" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1a610d1eda5e834232a189392ec1fd1393" prot="private" static="no" mutable="no">
         <type><ref refid="namespacemoja_1_1modules_1_1cbm_1a2df6f406df6e96203cfec39659d5bfe3" kindref="member">PeatlandType</ref></type>
@@ -33,7 +33,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="32" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="32" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="32" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="32" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1a6a53aee8faf0b63cb7dca477c18f2763" prot="private" static="no" mutable="no">
         <type><ref refid="namespacemoja_1_1modules_1_1cbm_1a556a3859c4135e00508f75f5e328a383" kindref="member">PeatlandLandCoverType</ref></type>
@@ -46,7 +46,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="33" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="33" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="33" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="33" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -61,7 +61,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="17" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="17" bodyend="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="17" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="17" bodyend="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1a03c0572a1194d5a5e242571d6fa26ea4" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type><ref refid="namespacemoja_1_1modules_1_1cbm_1a2df6f406df6e96203cfec39659d5bfe3" kindref="member">PeatlandType</ref></type>
@@ -74,7 +74,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="18" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="18" bodyend="18"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="18" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="18" bodyend="18"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1aa3c5926d1e158198fc5b3501a1a2f391" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type><ref refid="namespacemoja_1_1modules_1_1cbm_1a556a3859c4135e00508f75f5e328a383" kindref="member">PeatlandLandCoverType</ref></type>
@@ -87,7 +87,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="19" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="19" bodyend="19"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="19" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="19" bodyend="19"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1ad8a6b925f6b1ee0036509c158d00ef6a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
@@ -101,7 +101,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="25" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="25" bodyend="25"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="25" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="25" bodyend="25"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1a6fe2d8ac2e88529e3fc843bbbbf0f8b4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -126,7 +126,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="26" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/peatlandparameters.cpp" bodystart="7" bodyend="11"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="26" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/peatlandparameters.cpp" bodystart="7" bodyend="11"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1a8302d1b15fcbd570b0ebd17c0a1fc875" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
         <type>void</type>
@@ -148,7 +148,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="28" column="14"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="28" column="14"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -197,7 +197,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="15" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="15" bodyend="34"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" line="15" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/peatlandparameters.h" bodystart="15" bodyend="34"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1a6a53aee8faf0b63cb7dca477c18f2763" prot="private" virt="non-virtual"><scope>moja::modules::cbm::PeatlandParameters</scope><name>_landCoverType</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1PeatlandParameters_1a610d1eda5e834232a189392ec1fd1393" prot="private" virt="non-virtual"><scope>moja::modules::cbm::PeatlandParameters</scope><name>_peatlandType</name></member>

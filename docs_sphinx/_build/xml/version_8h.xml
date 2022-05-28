@@ -2,14 +2,14 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
   <compounddef id="version_8h" kind="file" language="C++">
     <compoundname>version.h</compoundname>
-    <includedby refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/libraryfactory.cpp</includedby>
+    <includedby refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/libraryfactory.cpp</includedby>
     <invincdepgraph>
       <node id="2">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/libraryfactory.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/libraryfactory.cpp</label>
         <link refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp"/>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/version.h</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/version.h</label>
         <link refid="version_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -25,7 +25,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/version.h" line="2" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/version.h" bodystart="2" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/version.h" line="2" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/version.h" bodystart="2" bodyend="-1"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -37,6 +37,6 @@
 <codeline lineno="2" refid="version_8h_1abe0e932e29d72dbb4115c6cb13fade21" refkind="member"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>CBM_VERSION<sp/>&quot;1.0.0&quot;</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="3"><highlight class="normal"></highlight><highlight class="preprocessor">#endif</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/version.h"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/version.h"/>
   </compounddef>
 </doxygen>

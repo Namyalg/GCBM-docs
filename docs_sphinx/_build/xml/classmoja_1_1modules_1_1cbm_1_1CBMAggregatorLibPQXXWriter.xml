@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="72" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="72" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="72" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="72" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1ae9135fd9a9496e05996a7c37093669ee" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1ae0109094ad3eb03602b681615c0fa040" kindref="member">PoolInfoRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1PoolInfoRecord" kindref="compound">PoolInfoRecord</ref> &gt; &gt;</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="73" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="73" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="73" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="73" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a69e7d4316b8bd4c860149e43a88da88d" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1a62e28cf7420569af03a343a36a44ed67" kindref="member">ClassifierSetRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1ClassifierSetRecord" kindref="compound">ClassifierSetRecord</ref> &gt; &gt;</type>
@@ -42,7 +42,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="74" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="74" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="74" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="74" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a5b08a37a13b376ea13994b3283e718bc" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1a71bca71b1ca3c3f7219b11040c38ad02" kindref="member">LandClassRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1LandClassRecord" kindref="compound">LandClassRecord</ref> &gt; &gt;</type>
@@ -55,7 +55,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="75" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="75" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="75" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="75" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a501f50d0f372d3c75d396be5e79d61d9" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1ab46a5c2cef094d0d4e065204762cf0af" kindref="member">TemporalLocationRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1TemporalLocationRecord" kindref="compound">TemporalLocationRecord</ref> &gt; &gt;</type>
@@ -68,7 +68,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="76" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="76" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="76" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="76" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a864e701b034f1b2745335e2143d80247" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1af8fc99604209c90abebee76291732734" kindref="member">ModuleInfoRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1ModuleInfoRecord" kindref="compound">ModuleInfoRecord</ref> &gt; &gt;</type>
@@ -81,7 +81,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="77" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="77" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="77" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="77" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1add7fdee3596addef0aafa1219041008c" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1aa7c78cb2322c3a376ae460016e8a239e" kindref="member">PoolRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1PoolRecord" kindref="compound">PoolRecord</ref> &gt; &gt;</type>
@@ -94,7 +94,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="78" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="78" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="78" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="78" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a958c0d89aa891d36397911cd5c2ab590" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1a4077fbe33842f4199d07f4bb5ecb13d8" kindref="member">FluxRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1FluxRecord" kindref="compound">FluxRecord</ref> &gt; &gt;</type>
@@ -107,7 +107,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="79" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="79" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="79" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="79" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1aa346810bd24ae9b5951adf84a284c3a6" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1acca8a59b030405145358757bb276cfaa" kindref="member">AgeClassRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1AgeClassRecord" kindref="compound">AgeClassRecord</ref> &gt; &gt;</type>
@@ -120,7 +120,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="80" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="80" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="80" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="80" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a00fcef30024c9af35315088b6d5f332d" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1abc1a32b396b5a372b84711fd84ab8945" kindref="member">AgeAreaRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1AgeAreaRecord" kindref="compound">AgeAreaRecord</ref> &gt; &gt;</type>
@@ -133,7 +133,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="81" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="81" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="81" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="81" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a44400eda803837685a8fc0309840fa16" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1a195a2677cfa8ee534c6aa683f0af91dc" kindref="member">DisturbanceTypeRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1DisturbanceTypeRecord" kindref="compound">DisturbanceTypeRecord</ref> &gt; &gt;</type>
@@ -146,7 +146,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="82" column="25" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="82" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="82" column="25" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="82" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1adc3d392ca133e091cb1f01210ae92f05" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1a51d73a9f3b52757cc61cce62dedc2b98" kindref="member">DisturbanceRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1DisturbanceRecord" kindref="compound">DisturbanceRecord</ref> &gt; &gt;</type>
@@ -159,7 +159,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="83" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="83" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="83" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="83" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1af1f48aa40ad7ec34e6d70728125278ee" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1a218123fa36c0105bd489b91355ca7d48" kindref="member">ErrorRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1ErrorRecord" kindref="compound">ErrorRecord</ref> &gt; &gt;</type>
@@ -172,7 +172,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="84" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="84" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="84" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="84" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1aad7c74c435408b9f1efffe401aea41d8" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; <ref refid="classmoja_1_1flint_1_1RecordAccumulatorWithMutex2" kindref="compound">flint::RecordAccumulatorWithMutex2</ref>&lt; <ref refid="namespacemoja_1_1modules_1_1cbm_1a2c746f33ab48002a72d5de3d4c467d1a" kindref="member">LocationErrorRow</ref>, <ref refid="classmoja_1_1modules_1_1cbm_1_1LocationErrorRecord" kindref="compound">LocationErrorRecord</ref> &gt; &gt;</type>
@@ -185,7 +185,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="85" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="85" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="85" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="85" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a982d9b9bb75231dc3f318fe33dde0465" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; std::vector&lt; std::string &gt; &gt;</type>
@@ -198,7 +198,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="86" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="86" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="86" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="86" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a3e87238c9c712d6daa33782f501f2c4c" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; const flint::SpatialLocationInfo &gt;</type>
@@ -211,7 +211,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="88" column="25" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="88" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="88" column="25" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="88" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1ac379f32af41f62820fa72966f33fd2bd" prot="private" static="no" mutable="no">
         <type>std::string</type>
@@ -224,7 +224,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="90" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="90" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="90" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="90" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a8f83c5b38aaa4858e083c6ca329a8f08" prot="private" static="no" mutable="no">
         <type>std::string</type>
@@ -237,7 +237,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="91" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="91" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="91" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="91" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a4be4cb7cf544cb9f0838f3f9ec2a98e0" prot="private" static="no" mutable="no">
         <type>Int64</type>
@@ -250,7 +250,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="92" column="15" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="92" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="92" column="15" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="92" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a65b5a0bc7389fa8923f2448d44d0d1de" prot="private" static="no" mutable="no">
         <type>bool</type>
@@ -263,7 +263,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="93" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="93" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="93" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="93" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a50cd38f278fa6424144456c030bd57bc" prot="private" static="no" mutable="no">
         <type>bool</type>
@@ -276,7 +276,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="94" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="94" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="94" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="94" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -356,7 +356,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="24" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="24" bodyend="58"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="24" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="24" bodyend="58"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1abbdac2bb4c73f9f1e6222e9150cada64" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type></type>
@@ -369,7 +369,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="60" column="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="60" column="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a8e61a518a587bf5dd73571c112b23e46" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -400,7 +400,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="62" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="43" bodyend="50"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="62" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="43" bodyend="50"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1ac0a652d7fd514484aa74d3414acb704d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -431,7 +431,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="63" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="63" bodyend="67"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="63" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="63" bodyend="67"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a1d3750fa72721a04468f4dec431e2b2b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>flint::ModuleTypes</type>
@@ -444,7 +444,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="65" column="28" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="65" bodyend="65"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="65" column="28" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="65" bodyend="65"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a4bd4c5b7e100e182f021e00774b0de9a" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -463,7 +463,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="67" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="77" bodyend="88"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="67" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="77" bodyend="88"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a52f3a5680a093913b1b16a149a8c9691" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -482,7 +482,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="68" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="97" bodyend="101"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="68" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="97" bodyend="101"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a1d1f2a650cfc246633ef5a6896867469" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -501,7 +501,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="69" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="116" bodyend="235"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="69" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="116" bodyend="235"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -575,7 +575,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="97" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="303" bodyend="320"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="97" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="303" bodyend="320"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1aead13ae8b3282720c5c7facfe99a0e97" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -631,7 +631,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="102" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="248" bodyend="260"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="102" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="248" bodyend="260"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1abbc87275dc23e02e5e35f4be43914a52" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -687,7 +687,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="103" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="273" bodyend="288"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="103" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmaggregatorlibpqxxwriter.cpp" bodystart="273" bodyend="288"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -718,7 +718,7 @@
         </childnode>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="22" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="22" bodyend="104"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" line="22" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmaggregatorlibpqxxwriter.h" bodystart="22" bodyend="104"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1a00fcef30024c9af35315088b6d5f332d" prot="private" virt="non-virtual"><scope>moja::modules::cbm::CBMAggregatorLibPQXXWriter</scope><name>_ageAreaDimension</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1CBMAggregatorLibPQXXWriter_1aa346810bd24ae9b5951adf84a284c3a6" prot="private" virt="non-virtual"><scope>moja::modules::cbm::CBMAggregatorLibPQXXWriter</scope><name>_ageClassDimension</name></member>

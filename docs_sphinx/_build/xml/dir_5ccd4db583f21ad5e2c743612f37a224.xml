@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
   <compounddef id="dir_5ccd4db583f21ad5e2c743612f37a224" kind="dir">
-    <compoundname>/mnt/e/moja.canada/Source/moja.modules.cbm/src</compoundname>
+    <compoundname>/mnt/e/DOXY-DOCS/moja.modules.cbm/src</compoundname>
     <innerfile refid="ageclasshelper_8cpp">ageclasshelper.cpp</innerfile>
     <innerfile refid="cbmageindicators_8cpp">cbmageindicators.cpp</innerfile>
     <innerfile refid="cbmaggregatorcsvwriter_8cpp">cbmaggregatorcsvwriter.cpp</innerfile>
@@ -80,6 +80,6 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/"/>
   </compounddef>
 </doxygen>

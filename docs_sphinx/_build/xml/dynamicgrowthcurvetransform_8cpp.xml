@@ -17,20 +17,8 @@
       <node id="15">
         <label>boost/algorithm/string.hpp</label>
       </node>
-      <node id="10">
-        <label>moja/flint/ivariable.h</label>
-      </node>
-      <node id="5">
-        <label>moja/flint/itransform.h</label>
-      </node>
-      <node id="7">
-        <label>Poco/ThreadLocal.h</label>
-      </node>
-      <node id="13">
-        <label>boost/format.hpp</label>
-      </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/dynamicgrowthcurvetransform.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/dynamicgrowthcurvetransform.cpp</label>
         <link refid="dynamicgrowthcurvetransform_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -49,26 +37,20 @@
         <childnode refid="16" relation="include">
         </childnode>
       </node>
+      <node id="10">
+        <label>moja/flint/ivariable.h</label>
+      </node>
+      <node id="5">
+        <label>moja/flint/itransform.h</label>
+      </node>
+      <node id="7">
+        <label>Poco/ThreadLocal.h</label>
+      </node>
+      <node id="13">
+        <label>boost/format.hpp</label>
+      </node>
       <node id="9">
         <label>map</label>
-      </node>
-      <node id="2">
-        <label>moja/modules/cbm/dynamicgrowthcurvetransform.h</label>
-        <link refid="dynamicgrowthcurvetransform_8h"/>
-        <childnode refid="3" relation="include">
-        </childnode>
-        <childnode refid="4" relation="include">
-        </childnode>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="6" relation="include">
-        </childnode>
-        <childnode refid="7" relation="include">
-        </childnode>
-        <childnode refid="8" relation="include">
-        </childnode>
-        <childnode refid="9" relation="include">
-        </childnode>
       </node>
       <node id="3">
         <label>moja/datarepository/iproviderrelationalinterface.h</label>
@@ -87,6 +69,24 @@
       </node>
       <node id="12">
         <label>moja/logging.h</label>
+      </node>
+      <node id="2">
+        <label>moja/modules/cbm/dynamicgrowthcurvetransform.h</label>
+        <link refid="dynamicgrowthcurvetransform_8h"/>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
       </node>
       <node id="6">
         <label>Poco/LRUCache.h</label>
@@ -240,6 +240,6 @@
 <codeline lineno="138"><highlight class="normal">}}}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja::modules::cbm</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="139"><highlight class="normal"></highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/dynamicgrowthcurvetransform.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/dynamicgrowthcurvetransform.cpp"/>
   </compounddef>
 </doxygen>

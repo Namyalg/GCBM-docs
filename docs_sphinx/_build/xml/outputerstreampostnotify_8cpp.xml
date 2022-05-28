@@ -13,6 +13,36 @@
       <node id="9">
         <label>moja/signals.h</label>
       </node>
+      <node id="4">
+        <label>moja/flint/outputerstream.h</label>
+      </node>
+      <node id="7">
+        <label>string</label>
+      </node>
+      <node id="8">
+        <label>moja/flint/landunitcontroller.h</label>
+      </node>
+      <node id="5">
+        <label>fstream</label>
+      </node>
+      <node id="1">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreampostnotify.cpp</label>
+        <link refid="outputerstreampostnotify_8cpp"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>iostream</label>
+      </node>
+      <node id="10">
+        <label>moja/notificationcenter.h</label>
+      </node>
       <node id="2">
         <label>moja/modules/cbm/outputerstreampostnotify.h</label>
         <link refid="outputerstreampostnotify_8h"/>
@@ -26,36 +56,6 @@
         </childnode>
         <childnode refid="7" relation="include">
         </childnode>
-      </node>
-      <node id="4">
-        <label>moja/flint/outputerstream.h</label>
-      </node>
-      <node id="7">
-        <label>string</label>
-      </node>
-      <node id="8">
-        <label>moja/flint/landunitcontroller.h</label>
-      </node>
-      <node id="5">
-        <label>fstream</label>
-      </node>
-      <node id="6">
-        <label>iostream</label>
-      </node>
-      <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreampostnotify.cpp</label>
-        <link refid="outputerstreampostnotify_8cpp"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="8" relation="include">
-        </childnode>
-        <childnode refid="9" relation="include">
-        </childnode>
-        <childnode refid="10" relation="include">
-        </childnode>
-      </node>
-      <node id="10">
-        <label>moja/notificationcenter.h</label>
       </node>
     </incdepgraph>
     <innernamespace refid="namespacemoja">moja</innernamespace>
@@ -71,7 +71,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreampostnotify.cpp" line="12" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreampostnotify.cpp" bodystart="12" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreampostnotify.cpp" line="12" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreampostnotify.cpp" bodystart="12" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="outputerstreampostnotify_8cpp_1ad24484039944ed6bd4e5e817bc5ccdb0" prot="public" static="no">
         <name>STOCK_PRECISION</name>
@@ -82,7 +82,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreampostnotify.cpp" line="13" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreampostnotify.cpp" bodystart="13" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreampostnotify.cpp" line="13" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreampostnotify.cpp" bodystart="13" bodyend="-1"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -126,6 +126,6 @@
 <codeline lineno="34"><highlight class="normal">}}}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja::Modules::CBM</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="35"><highlight class="normal"></highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/outputerstreampostnotify.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/outputerstreampostnotify.cpp"/>
   </compounddef>
 </doxygen>

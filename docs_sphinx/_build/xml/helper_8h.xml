@@ -4,12 +4,12 @@
     <compoundname>helper.h</compoundname>
     <includes local="no">boost/algorithm/string.hpp</includes>
     <includes local="yes">moja/modules/cbm/_modules.cbm_exports.h</includes>
-    <includedby refid="mossdecaymodule_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossdecaymodule.cpp</includedby>
-    <includedby refid="mossdisturbancemodule_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossdisturbancemodule.cpp</includedby>
-    <includedby refid="mossgrowthmodule_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossgrowthmodule.cpp</includedby>
-    <includedby refid="mossturnovermodule_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossturnovermodule.cpp</includedby>
-    <includedby refid="smoother_8cpp" local="no">/mnt/e/moja.canada/Source/moja.modules.cbm/src/smoother.cpp</includedby>
-    <includedby refid="volumetobiomassconverter_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/volumetobiomassconverter.cpp</includedby>
+    <includedby refid="mossdecaymodule_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossdecaymodule.cpp</includedby>
+    <includedby refid="mossdisturbancemodule_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossdisturbancemodule.cpp</includedby>
+    <includedby refid="mossgrowthmodule_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossgrowthmodule.cpp</includedby>
+    <includedby refid="mossturnovermodule_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossturnovermodule.cpp</includedby>
+    <includedby refid="smoother_8cpp" local="no">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/smoother.cpp</includedby>
+    <includedby refid="volumetobiomassconverter_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/volumetobiomassconverter.cpp</includedby>
     <incdepgraph>
       <node id="2">
         <label>boost/algorithm/string.hpp</label>
@@ -18,7 +18,7 @@
         <label>moja/modules/cbm/_modules.cbm_exports.h</label>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/helper.h</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/helper.h</label>
         <link refid="helper_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -27,8 +27,16 @@
       </node>
     </incdepgraph>
     <invincdepgraph>
+      <node id="3">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossdisturbancemodule.cpp</label>
+        <link refid="mossdisturbancemodule_8cpp"/>
+      </node>
+      <node id="5">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossturnovermodule.cpp</label>
+        <link refid="mossturnovermodule_8cpp"/>
+      </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/helper.h</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/helper.h</label>
         <link refid="helper_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -43,29 +51,21 @@
         <childnode refid="7" relation="include">
         </childnode>
       </node>
-      <node id="3">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossdisturbancemodule.cpp</label>
-        <link refid="mossdisturbancemodule_8cpp"/>
-      </node>
-      <node id="6">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/smoother.cpp</label>
-        <link refid="smoother_8cpp"/>
-      </node>
       <node id="4">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossgrowthmodule.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossgrowthmodule.cpp</label>
         <link refid="mossgrowthmodule_8cpp"/>
       </node>
+      <node id="6">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/smoother.cpp</label>
+        <link refid="smoother_8cpp"/>
+      </node>
       <node id="2">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossdecaymodule.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossdecaymodule.cpp</label>
         <link refid="mossdecaymodule_8cpp"/>
       </node>
       <node id="7">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/volumetobiomassconverter.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/volumetobiomassconverter.cpp</label>
         <link refid="volumetobiomassconverter_8cpp"/>
-      </node>
-      <node id="5">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossturnovermodule.cpp</label>
-        <link refid="mossturnovermodule_8cpp"/>
       </node>
     </invincdepgraph>
     <innerclass refid="classmoja_1_1modules_1_1cbm_1_1Helper" prot="public">moja::modules::cbm::Helper</innerclass>
@@ -146,6 +146,6 @@
 <codeline lineno="79"><highlight class="normal">}</highlight></codeline>
 <codeline lineno="80"><highlight class="normal"></highlight><highlight class="preprocessor">#endif<sp/></highlight><highlight class="comment">//<sp/>MOJA_MODULES_CBM_HELPER_H_</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/helper.h"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/helper.h"/>
   </compounddef>
 </doxygen>

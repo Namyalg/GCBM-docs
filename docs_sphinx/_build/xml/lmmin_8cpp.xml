@@ -12,17 +12,17 @@
       <node id="5">
         <label>cmath</label>
       </node>
-      <node id="4">
-        <label>vector</label>
-      </node>
       <node id="2">
         <label>moja/modules/cbm/lmmin.h</label>
         <link refid="lmmin_8h"/>
         <childnode refid="3" relation="include">
         </childnode>
       </node>
+      <node id="4">
+        <label>vector</label>
+      </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp</label>
         <link refid="lmmin_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -44,7 +44,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="9" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="9" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="9" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="9" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="lmmin_8cpp_1ae92477bf5af64a0486e8b99c45790c9c" prot="public" static="no">
         <name>BUG</name>
@@ -55,7 +55,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="86" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="86" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="86" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="86" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="lmmin_8cpp_1a01b46cc2cae4eee231acb7702df379db" prot="public" static="no">
         <name>LM_MACHEP</name>
@@ -66,7 +66,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="92" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="92" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="92" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="92" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="lmmin_8cpp_1a2ee34e0a4f4a4b860c14a8ab07e3cec3" prot="public" static="no">
         <name>LM_DWARF</name>
@@ -77,7 +77,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="93" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="93" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="93" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="93" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="lmmin_8cpp_1a65e2a867eb21938170bb9a8a850b64ec" prot="public" static="no">
         <name>LM_SQRT_DWARF</name>
@@ -88,7 +88,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="94" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="94" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="94" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="94" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="lmmin_8cpp_1a057d1d13f0effa33d81c7615e4f3664d" prot="public" static="no">
         <name>LM_SQRT_GIANT</name>
@@ -99,7 +99,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="95" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="95" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="95" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="95" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="lmmin_8cpp_1a3acffbd305ee72dcd4593c0d8af64a4f" prot="public" static="no">
         <name>MIN</name>
@@ -112,7 +112,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="97" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="97" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="97" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="97" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="lmmin_8cpp_1afa99ec4acc4ecb2dc3c2d05da15d0e3f" prot="public" static="no">
         <name>MAX</name>
@@ -125,7 +125,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="98" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="98" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="98" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="98" bodyend="-1"/>
       </memberdef>
       <memberdef kind="define" id="lmmin_8cpp_1aa7866fa5e4e0ee9b034e9dab6599a9cc" prot="public" static="no">
         <name>SQR</name>
@@ -137,7 +137,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" line="99" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="99" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" line="99" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="99" bodyend="-1"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -1326,6 +1326,6 @@
 <codeline lineno="1215"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="1216"><highlight class="normal">}</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp"/>
   </compounddef>
 </doxygen>

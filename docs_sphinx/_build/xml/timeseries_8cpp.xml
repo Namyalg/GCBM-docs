@@ -15,7 +15,7 @@
         <label>moja/flint/itiming.h</label>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/timeseries.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/timeseries.cpp</label>
         <link refid="timeseries_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -800,6 +800,6 @@
 <codeline lineno="730"><highlight class="normal">}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>modules</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="731"><highlight class="normal">}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/timeseries.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/timeseries.cpp"/>
   </compounddef>
 </doxygen>

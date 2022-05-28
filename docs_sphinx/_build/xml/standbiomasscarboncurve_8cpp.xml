@@ -10,15 +10,6 @@
       <node id="3">
         <label>moja/modules/cbm/_modules.cbm_exports.h</label>
       </node>
-      <node id="4">
-        <label>moja/flint/modulebase.h</label>
-      </node>
-      <node id="7">
-        <label>cmath</label>
-      </node>
-      <node id="13">
-        <label>fstream</label>
-      </node>
       <node id="2">
         <label>moja/modules/cbm/standbiomasscarboncurve.h</label>
         <link refid="standbiomasscarboncurve_8h"/>
@@ -31,25 +22,8 @@
         <childnode refid="10" relation="include">
         </childnode>
       </node>
-      <node id="8">
-        <label>moja/modules/cbm/componentbiomasscarboncurve.h</label>
-        <link refid="componentbiomasscarboncurve_8h"/>
-        <childnode refid="3" relation="include">
-        </childnode>
-        <childnode refid="4" relation="include">
-        </childnode>
-      </node>
-      <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/standbiomasscarboncurve.cpp</label>
-        <link refid="standbiomasscarboncurve_8cpp"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="11" relation="include">
-        </childnode>
-        <childnode refid="12" relation="include">
-        </childnode>
-        <childnode refid="13" relation="include">
-        </childnode>
+      <node id="4">
+        <label>moja/flint/modulebase.h</label>
       </node>
       <node id="5">
         <label>moja/modules/cbm/standcomponent.h</label>
@@ -67,14 +41,8 @@
         <childnode refid="10" relation="include">
         </childnode>
       </node>
-      <node id="10">
-        <label>unordered_map</label>
-      </node>
-      <node id="11">
-        <label>moja/logging.h</label>
-      </node>
-      <node id="9">
-        <label>moja/flint/ipool.h</label>
+      <node id="7">
+        <label>cmath</label>
       </node>
       <node id="6">
         <label>moja/modules/cbm/rootbiomassequation.h</label>
@@ -83,6 +51,38 @@
         </childnode>
         <childnode refid="7" relation="include">
         </childnode>
+      </node>
+      <node id="13">
+        <label>fstream</label>
+      </node>
+      <node id="8">
+        <label>moja/modules/cbm/componentbiomasscarboncurve.h</label>
+        <link refid="componentbiomasscarboncurve_8h"/>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standbiomasscarboncurve.cpp</label>
+        <link refid="standbiomasscarboncurve_8cpp"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>unordered_map</label>
+      </node>
+      <node id="11">
+        <label>moja/logging.h</label>
+      </node>
+      <node id="9">
+        <label>moja/flint/ipool.h</label>
       </node>
       <node id="12">
         <label>algorithm</label>
@@ -222,6 +222,6 @@
 <codeline lineno="124"><highlight class="normal"></highlight></codeline>
 <codeline lineno="125"><highlight class="normal">}}}</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/standbiomasscarboncurve.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standbiomasscarboncurve.cpp"/>
   </compounddef>
 </doxygen>

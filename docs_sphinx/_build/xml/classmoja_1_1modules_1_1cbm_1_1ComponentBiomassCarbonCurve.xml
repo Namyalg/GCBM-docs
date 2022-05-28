@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="40" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="40" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="40" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="40" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a567df7bc13b0d8f2c70682846a3ff8f8" prot="private" static="no" mutable="no">
         <type>std::vector&lt; double &gt;</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="41" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="41" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="41" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="41" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1ae2010adc7a877a9eb07712cc109efbaa" prot="private" static="no" mutable="no">
         <type>std::vector&lt; double &gt;</type>
@@ -42,7 +42,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="42" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="42" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="42" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="42" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a30de48e54390b8eab3129cdc832b491b" prot="private" static="no" mutable="no">
         <type>std::vector&lt; double &gt;</type>
@@ -55,7 +55,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="43" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="43" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="43" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="43" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -70,7 +70,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="16" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="16" bodyend="16"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="16" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="16" bodyend="16"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a060ab004156d3c3c749ed02bfd0b915d" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type></type>
@@ -83,7 +83,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="17" column="9"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="17" column="9"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a44fa389c4d6a8762fa6835ea95d548fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -100,7 +100,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="19" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/componentbiomasscarboncurve.cpp" bodystart="12" bodyend="14"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="19" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/componentbiomasscarboncurve.cpp" bodystart="12" bodyend="14"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a00a1a625451badafc58e7e5ac55c0970" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>double</type>
@@ -117,7 +117,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="21" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="46" bodyend="53"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="21" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="46" bodyend="53"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a370f8d7430bef7a5b60baff910bae381" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>double</type>
@@ -134,7 +134,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="22" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="55" bodyend="62"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="22" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="55" bodyend="62"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a69bb9de3887eb5a7119aa0ff67753f76" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>double</type>
@@ -151,7 +151,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="23" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="64" bodyend="71"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="23" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="64" bodyend="71"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a9e09282bdb5465d75aae7935b90a53aa" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>double</type>
@@ -168,7 +168,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="25" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="97" bodyend="100"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="25" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="97" bodyend="100"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a88207b0f00c6138861032b930a2eeeff" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>double</type>
@@ -185,7 +185,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="26" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="102" bodyend="105"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="26" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="102" bodyend="105"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a8bd78b670508e03370d1ebc4a04ce970" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>double</type>
@@ -202,7 +202,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="27" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="107" bodyend="110"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="27" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="107" bodyend="110"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a6d2966a89a03e77030920b553ce4d1cf" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>std::vector&lt; double &gt;</type>
@@ -215,7 +215,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="29" column="21" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="112" bodyend="122"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="29" column="21" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="112" bodyend="122"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1abd710c27d2e22531650597bf3b065448" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>const std::vector&lt; double &gt; &amp;</type>
@@ -228,7 +228,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="31" column="27" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="124" bodyend="126"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="31" column="27" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="124" bodyend="126"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1aac061f50af6f49d3cc7bcb9a76a28267" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>const std::vector&lt; double &gt; &amp;</type>
@@ -241,7 +241,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="32" column="27" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="128" bodyend="130"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="32" column="27" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="128" bodyend="130"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1adeebd03bb24fcf3b98cf857ae1edd782" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type>const std::vector&lt; double &gt; &amp;</type>
@@ -254,7 +254,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="33" column="27" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="132" bodyend="134"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="33" column="27" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="132" bodyend="134"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a6bd4bbff5a04313149d90706f51a8b33" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -275,7 +275,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="35" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="73" bodyend="79"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="35" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="73" bodyend="79"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1afbe9c6e3837da286dad56c3acc6d0788" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -296,7 +296,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="36" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="81" bodyend="87"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="36" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="81" bodyend="87"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a4e83da0aa245684e40ebc309313928c9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -317,7 +317,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="37" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="89" bodyend="95"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="37" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="89" bodyend="95"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -330,7 +330,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="14" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="14" bodyend="44"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" line="14" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/componentbiomasscarboncurve.h" bodystart="14" bodyend="44"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1ae2010adc7a877a9eb07712cc109efbaa" prot="private" virt="non-virtual"><scope>moja::modules::cbm::ComponentBiomassCarbonCurve</scope><name>_foliageCarbonIncrements</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1ComponentBiomassCarbonCurve_1a9b2f75afbed1f4af4f34c53baec9ae3f" prot="private" virt="non-virtual"><scope>moja::modules::cbm::ComponentBiomassCarbonCurve</scope><name>_maxAge</name></member>

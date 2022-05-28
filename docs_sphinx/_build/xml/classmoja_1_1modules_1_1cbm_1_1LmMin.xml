@@ -15,7 +15,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="27" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" bodystart="27" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="27" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" bodystart="27" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1a659596f77d8d74a4218ba9d122f1c39f" prot="public" static="no">
         <type>void()</type>
@@ -28,7 +28,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="33" column="9" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" bodystart="33" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="33" column="9" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" bodystart="33" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -63,7 +63,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="30" column="6"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="30" column="6"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1a6d71f7e8440a6262d8db38aaea4e7e7e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -108,7 +108,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="36" column="6"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="36" column="6"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1acca4ad218695fb19545602619924c1d4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -125,7 +125,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="39" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="12" bodyend="20"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="39" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="12" bodyend="20"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1a564ef5317c2e0526627bd39b16acaf53" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>double</type>
@@ -148,7 +148,7 @@
 <para>sum squares.</para>
 <para>calculation of norm.</para>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="42" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="1130" bodyend="1211"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="42" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="1130" bodyend="1211"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1acccb5d208acdc6abd1cd784fc16f37f3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -189,7 +189,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="45" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="22" bodyend="49"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="45" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="22" bodyend="49"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1ad9d7115eaad1df34edf2efd92c794dbf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -299,7 +299,7 @@
         <inbodydescription>
 <para>outer: compute norm of scaled gradient and test for convergence.</para>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="47" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="278" bodyend="574"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="47" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="278" bodyend="574"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1aa72b372e483c92753b89a59aa3128b64" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -347,7 +347,7 @@
 <para>compute the Householder transformation to reduce the j-th column of a to a multiple of the j-th unit vector.</para>
 <para>apply the transformation to the remaining columns and update the norms.</para>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="51" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="809" bodyend="952"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="51" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="809" bodyend="952"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1a0543234dc4a8534dffcec238a778916a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -400,7 +400,7 @@
 <para>accumulate the tranformation in the row of s.</para>
 <para>store the diagonal element of s and restore the corresponding diagonal element of r.</para>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="53" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="956" bodyend="1126"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="53" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="956" bodyend="1126"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1LmMin_1a64fcb82c1daa55fe6571c80e00e57f91" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -466,7 +466,7 @@
 <para>depending on the sign of the function, update parl or paru.</para>
 <para>compute an improved estimate for par.</para>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="55" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/lmmin.cpp" bodystart="578" bodyend="805"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="55" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/lmmin.cpp" bodystart="578" bodyend="805"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -479,7 +479,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1LmMin"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="24" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" bodystart="24" bodyend="58"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" line="24" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/lmmin.h" bodystart="24" bodyend="58"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1LmMin_1a564ef5317c2e0526627bd39b16acaf53" prot="public" virt="non-virtual"><scope>moja::modules::cbm::LmMin</scope><name>lm_enorm</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1LmMin_1ad35cf99e2b3c0532b5eef07b77ca40a0" prot="public" virt="non-virtual"><scope>moja::modules::cbm::LmMin</scope><name>lm_evaluate_default</name></member>

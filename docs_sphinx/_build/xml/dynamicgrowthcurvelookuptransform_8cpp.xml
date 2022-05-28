@@ -12,6 +12,31 @@
       <node id="10">
         <label>moja/flint/ivariable.h</label>
       </node>
+      <node id="5">
+        <label>moja/flint/itransform.h</label>
+      </node>
+      <node id="7">
+        <label>Poco/ThreadLocal.h</label>
+      </node>
+      <node id="9">
+        <label>map</label>
+      </node>
+      <node id="3">
+        <label>moja/datarepository/iproviderrelationalinterface.h</label>
+      </node>
+      <node id="4">
+        <label>moja/flint/ilandunitcontroller.h</label>
+      </node>
+      <node id="1">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/dynamicgrowthcurvelookuptransform.cpp</label>
+        <link refid="dynamicgrowthcurvelookuptransform_8cpp"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+      </node>
       <node id="2">
         <label>moja/modules/cbm/dynamicgrowthcurvelookuptransform.h</label>
         <link refid="dynamicgrowthcurvelookuptransform_8h"/>
@@ -30,33 +55,8 @@
         <childnode refid="9" relation="include">
         </childnode>
       </node>
-      <node id="5">
-        <label>moja/flint/itransform.h</label>
-      </node>
-      <node id="7">
-        <label>Poco/ThreadLocal.h</label>
-      </node>
-      <node id="9">
-        <label>map</label>
-      </node>
-      <node id="3">
-        <label>moja/datarepository/iproviderrelationalinterface.h</label>
-      </node>
-      <node id="4">
-        <label>moja/flint/ilandunitcontroller.h</label>
-      </node>
       <node id="11">
         <label>moja/datarepository/datarepository.h</label>
-      </node>
-      <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/dynamicgrowthcurvelookuptransform.cpp</label>
-        <link refid="dynamicgrowthcurvelookuptransform_8cpp"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="10" relation="include">
-        </childnode>
-        <childnode refid="11" relation="include">
-        </childnode>
       </node>
       <node id="6">
         <label>Poco/LRUCache.h</label>
@@ -119,6 +119,6 @@
 <codeline lineno="47"><highlight class="normal">}}}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja::modules::cbm</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="48"><highlight class="normal"></highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/dynamicgrowthcurvelookuptransform.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/dynamicgrowthcurvelookuptransform.cpp"/>
   </compounddef>
 </doxygen>

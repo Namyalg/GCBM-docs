@@ -23,7 +23,6 @@
  @licend  The above is the entire license notice for the JavaScript code in this file
 */
 var menudata={children:[
-{text:"Home",url:"../html/index.html"},
 {text:"API Home",url:"index.html"},
 {text:"Namespaces",url:"namespaces.html",children:[
 {text:"Namespace List",url:"namespaces.html"},
@@ -136,5 +135,4 @@ var menudata={children:[
 {text:"File Members",url:"globals.html",children:[
 {text:"All",url:"globals.html"},
 {text:"Variables",url:"globals_vars.html"},
-{text:"Macros",url:"globals_defs.html"}]}]},
-{text:"Github",url:"https://github.com/jaideep777/Plant-FATE"}]}
+{text:"Macros",url:"globals_defs.html"}]}]}]}

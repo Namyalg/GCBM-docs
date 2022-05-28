@@ -5,8 +5,8 @@
     <includes local="no">list</includes>
     <includes local="yes">moja/modules/cbm/_modules.cbm_exports.h</includes>
     <includes refid="cbmmodulebase_8h" local="yes">moja/modules/cbm/cbmmodulebase.h</includes>
-    <includedby refid="cbmpartitioningmodule_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp</includedby>
-    <includedby refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/libraryfactory.cpp</includedby>
+    <includedby refid="cbmpartitioningmodule_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp</includedby>
+    <includedby refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/libraryfactory.cpp</includedby>
     <incdepgraph>
       <node id="2">
         <label>list</label>
@@ -36,7 +36,7 @@
         <label>boost/exception_ptr.hpp</label>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h</label>
         <link refid="cbmpartitioningmodule_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -51,15 +51,15 @@
     </incdepgraph>
     <invincdepgraph>
       <node id="3">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/libraryfactory.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/libraryfactory.cpp</label>
         <link refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp"/>
       </node>
       <node id="2">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmpartitioningmodule.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmpartitioningmodule.cpp</label>
         <link refid="cbmpartitioningmodule_8cpp"/>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h</label>
         <link refid="cbmpartitioningmodule_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -131,6 +131,6 @@
 <codeline lineno="53"><highlight class="normal">}}}</highlight></codeline>
 <codeline lineno="54"><highlight class="normal"></highlight><highlight class="preprocessor">#endif</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmpartitioningmodule.h"/>
   </compounddef>
 </doxygen>

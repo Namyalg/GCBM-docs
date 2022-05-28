@@ -9,24 +9,6 @@
       <node id="3">
         <label>moja/modules/cbm/_modules.cbm_exports.h</label>
       </node>
-      <node id="5">
-        <label>moja/flint/itiming.h</label>
-      </node>
-      <node id="11">
-        <label>moja/signals.h</label>
-      </node>
-      <node id="9">
-        <label>string</label>
-      </node>
-      <node id="4">
-        <label>moja/datetime.h</label>
-      </node>
-      <node id="7">
-        <label>moja/flint/ilandunitcontroller.h</label>
-      </node>
-      <node id="6">
-        <label>moja/flint/sequencermodulebase.h</label>
-      </node>
       <node id="2">
         <label>moja/modules/cbm/cbmsequencer.h</label>
         <link refid="cbmsequencer_8h"/>
@@ -45,11 +27,14 @@
         <childnode refid="9" relation="include">
         </childnode>
       </node>
-      <node id="10">
-        <label>moja/flint/flintexceptions.h</label>
+      <node id="5">
+        <label>moja/flint/itiming.h</label>
+      </node>
+      <node id="11">
+        <label>moja/signals.h</label>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmsequencer.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmsequencer.cpp</label>
         <link refid="cbmsequencer_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -57,6 +42,21 @@
         </childnode>
         <childnode refid="11" relation="include">
         </childnode>
+      </node>
+      <node id="9">
+        <label>string</label>
+      </node>
+      <node id="4">
+        <label>moja/datetime.h</label>
+      </node>
+      <node id="7">
+        <label>moja/flint/ilandunitcontroller.h</label>
+      </node>
+      <node id="6">
+        <label>moja/flint/sequencermodulebase.h</label>
+      </node>
+      <node id="10">
+        <label>moja/flint/flintexceptions.h</label>
       </node>
       <node id="8">
         <label>moja/notificationcenter.h</label>
@@ -130,6 +130,6 @@
 <codeline lineno="58"><highlight class="normal"></highlight></codeline>
 <codeline lineno="59"><highlight class="normal">}}}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja::modules::cbm</highlight><highlight class="normal"></highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmsequencer.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmsequencer.cpp"/>
   </compounddef>
 </doxygen>

@@ -16,7 +16,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="96" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="96" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="96" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="96" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ae964911082e85a4edcc0c54948062ad1" prot="private" static="no" mutable="no">
         <type>std::vector&lt; <ref refid="structmoja_1_1modules_1_1cbm_1_1Environment__data" kindref="compound">Environment_data</ref> &gt;</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="97" column="13" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="97" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="97" column="13" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="97" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ad4cb20a79cf2632b5c2c474bbb31c3be" prot="private" static="no" mutable="no">
         <type>size_t</type>
@@ -42,7 +42,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="100" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="100" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="100" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="100" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a3587a710956beb3d42b9a4c6a0aa3acd" prot="private" static="no" mutable="no">
         <type>std::default_random_engine</type>
@@ -55,7 +55,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="101" column="28" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="101" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="101" column="28" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="101" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a4cf412792b929d1482d9c62c9411895b" prot="private" static="no" mutable="no">
         <type>Sawtooth_Error</type>
@@ -68,7 +68,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="103" column="16" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="103" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="103" column="16" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="103" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1afb8e7d97af7b8f5f41214539e48ffe1c" prot="private" static="no" mutable="no">
         <type>Sawtooth_Spatial_Variable</type>
@@ -81,7 +81,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="104" column="27" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="104" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="104" column="27" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="104" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aa6dee7febd9b9d4858224215185b2a94" prot="private" static="no" mutable="no">
         <type>Sawtooth_CBM_Variable</type>
@@ -94,7 +94,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="107" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="107" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="107" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="107" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1afff8b3a13f3a32ad7cc0a9a44cb99ef5" prot="private" static="no" mutable="no">
         <type>Sawtooth_StandLevelResult</type>
@@ -107,7 +107,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="109" column="27" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="109" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="109" column="27" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="109" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a57c4778d23a9c16f3185a9a40b9ae59a" prot="private" static="no" mutable="no">
         <type>Sawtooth_CBMResult</type>
@@ -120,7 +120,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="110" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="110" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="110" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="110" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a9a0999e56e23d09046b0b4a7fccea1c2" prot="private" static="no" mutable="no">
         <type>std::shared_ptr&lt; Sawtooth_CBMAnnualProcesses &gt;</type>
@@ -133,7 +133,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="111" column="17" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="111" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="111" column="17" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="111" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a459a15a61ee3b386188e379a2d718b8c" prot="private" static="no" mutable="no">
         <type>bool</type>
@@ -146,7 +146,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="112" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="112" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="112" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="112" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a8de4b77f5756bd320aecf0995509df0c" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -159,7 +159,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="115" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="115" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="115" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="115" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a3c18c8e44215c7321cab25f528075260" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -172,7 +172,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="116" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="116" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="116" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="116" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a29e443039cc87913ada62bb79921c019" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -185,7 +185,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="117" column="5" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="117" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="117" column="5" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="117" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a9c6e71f99c34c1e4eaa3da0d2763d542" prot="private" static="no" mutable="no">
         <type>std::unordered_set&lt; const moja::flint::IPool * &gt;</type>
@@ -198,7 +198,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="118" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="118" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="118" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="118" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a1bb1bf1d882b3d78e3d467f6a664ead8" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix_Int, int &gt;</type>
@@ -211,7 +211,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="120" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="120" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="120" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="120" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a90eb726f561e1d372878a5450ee5fe22" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -224,7 +224,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="122" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="122" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="122" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="122" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aa10f26728d3fdb3659d3df1dd8b3714a" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -237,7 +237,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="123" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="123" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="123" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="123" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a81dad38f389912b8ab73a49ed2a7b571" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -250,7 +250,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="124" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="124" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="124" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="124" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a3ad11792cdf02573c2e914a769014efa" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -263,7 +263,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="125" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="125" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="125" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="125" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a2311ba412ffff8198800889d6e3dade8" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -276,7 +276,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="126" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="126" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="126" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="126" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a29f426d87fd06db51971753d8a133957" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -289,7 +289,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="127" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="127" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="127" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="127" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a8da0d8466ca0d65885087f964419285c" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -302,7 +302,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="128" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="128" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="128" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="128" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a66ec943d6059d9909ad0b1a6e95e321a" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -315,7 +315,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="129" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="129" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="129" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="129" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a85f57f7c3539e1d56f039231403f9129" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -328,7 +328,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="130" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="130" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="130" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="130" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a9fe1cb82724c36231dc3f8faa0ed9192" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -341,7 +341,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="131" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="131" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="131" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="131" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a39b7d97937fe278fb3f0cf10e4698a9c" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -354,7 +354,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="132" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="132" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="132" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="132" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a2dce0f2b05844b8adc5e67e593b82af9" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -367,7 +367,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="133" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="133" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="133" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="133" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a5737909e23ee9ea254f940021542e16f" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -380,7 +380,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="134" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="134" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="134" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="134" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aab922ffefa3a3dfde1c924a5ed27183e" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix_Int, int &gt;</type>
@@ -393,7 +393,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="135" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="135" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="135" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="135" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a2bc8df1c5085effbfb6e9c29af8d0dd9" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -406,7 +406,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="136" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="136" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="136" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="136" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a6e59e22c1ad759250e4bbfbf15dbfe7b" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -419,7 +419,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="137" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="137" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="137" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="137" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a30b9d6f232b5be58d3d8b96c47fb224a" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -432,7 +432,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="138" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="138" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="138" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="138" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a949b1936b91279d02e474008408c85dd" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -445,7 +445,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="140" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="140" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="140" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="140" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a119aa11755dfa1be42ca9217b64609ea" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -458,7 +458,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="141" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="141" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="141" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="141" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a3a19689582155613354a8a75b89b96cd" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -471,7 +471,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="142" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="142" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="142" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="142" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a62bbf6d6d162023f53cffe2304fec190" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -484,7 +484,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="143" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="143" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="143" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="143" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1afefbd3dd191878de66c10e9d9362a5d7" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -497,7 +497,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="144" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="144" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="144" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="144" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a5396bd89d19366ab252b24051fb56400" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -510,7 +510,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="145" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="145" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="145" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="145" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ad4cee4ebdeb5b714ddea0a1381545b24" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -523,7 +523,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="146" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="146" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="146" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="146" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1abfee270a4a7d061167265f228d83744c" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -536,7 +536,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="147" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="147" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="147" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="147" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a1be9b1a462e28e1da9bafb65c5c31dd2" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -549,7 +549,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="148" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="148" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="148" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="148" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a461b6e0f7077288f8966738652794c73" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -562,7 +562,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="149" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="149" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="149" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="149" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a16b9b9d91c0b9e2336c2d8f5f5c88a5f" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -575,7 +575,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="150" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="150" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="150" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="150" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ae0f20e44d85b7c39864dc3b4bcebd2a2" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix, double &gt;</type>
@@ -588,7 +588,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="151" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="151" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="151" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="151" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a08beb82b1aae4d5abbe5bb02c099d14b" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix_Int, int &gt;</type>
@@ -601,7 +601,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="153" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="153" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="153" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="153" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a394caa0ae91a078e3485395703e0d5ae" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix_Int, int &gt;</type>
@@ -614,7 +614,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="154" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="154" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="154" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="154" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a4eb6121ad651817e5a0fcc0e07aaf9f1" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix_Int, int &gt;</type>
@@ -627,7 +627,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="155" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="155" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="155" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="155" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ae9d8c89f65e7c58fc1db0ea128016852" prot="private" static="no" mutable="no">
         <type><ref refid="classmoja_1_1modules_1_1cbm_1_1SawtoothMatrixWrapper" kindref="compound">SawtoothMatrixWrapper</ref>&lt; Sawtooth_Matrix_Int, int &gt;</type>
@@ -640,7 +640,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="156" column="23" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="156" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="156" column="23" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="156" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a73fda9a963577444be1d6ea885df5359" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -653,7 +653,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="158" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="158" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="158" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="158" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a4b776d93d5f29b12578d9ac675dddf16" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -666,7 +666,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="159" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="159" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="159" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="159" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a89cdd527ffa7e8613679d833d24ba1c4" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -679,7 +679,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="160" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="160" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="160" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="160" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a9a0dc2a27f5cdfbd010705a11b6b26db" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -692,7 +692,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="161" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="161" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="161" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="161" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1af94b0c6b008c6fcfd1a08c43ded3c3fd" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -705,7 +705,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="162" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="162" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="162" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="162" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aa92b53f1040b31bd1b4d870899ce2ca5" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -718,7 +718,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="164" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="164" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="164" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="164" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a9a7cbac725b0b097c4cacfc8b2a129b8" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -731,7 +731,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="165" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="165" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="165" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="165" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1acee0d85be161cdd2dcc1575975709c18" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -744,7 +744,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="166" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="166" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="166" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="166" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a7728db25f7d0a67df7f61730a35164ce" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -757,7 +757,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="167" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="167" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="167" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="167" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aa28600196c300d43f2b5788fe5bbd9e2" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -770,7 +770,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="168" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="168" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="168" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="168" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a652a30445622c681a2e8c07e50ec90c8" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -783,7 +783,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="170" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="170" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="170" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="170" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a34ae123715aa55bfd0df5e3b317a526b" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -796,7 +796,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="171" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="171" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="171" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="171" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a5aa2ec80e506eb2ec975bbc40d7beb56" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -809,7 +809,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="172" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="172" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="172" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="172" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a4a6a1a36160452c2a592758a941d434e" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -822,7 +822,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="173" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="173" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="173" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="173" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a6b21336be4816b7d541c2434b353a024" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -835,7 +835,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="174" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="174" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="174" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="174" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a61626d20ccd71ccffa0ddbe543d6f2e2" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -848,7 +848,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="175" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="175" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="175" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="175" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1af763d9c82f1fe89d02d16bd33183c46d" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -861,7 +861,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="176" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="176" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="176" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="176" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a4f7b55f39e82c47882126a798162b74e" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -874,7 +874,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="177" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="177" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="177" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="177" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a1384c503b652f3067cdce1a4752bd811" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -887,7 +887,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="178" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="178" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="178" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="178" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a31c832b6aa70ab4c880185dd06440228" prot="private" static="no" mutable="no">
         <type>const flint::IPool *</type>
@@ -900,7 +900,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="179" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="179" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="179" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="179" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a288ba2e2a55298302c348196fdc75cd8" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -913,7 +913,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="181" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="181" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="181" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="181" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a8842f623c4834075db27162979d95174" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -926,7 +926,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="182" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="182" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="182" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="182" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1af4a2d73bc8bbadb2a6249ec59987a26e" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -939,7 +939,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="183" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="183" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="183" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="183" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a37afa641144f3cf0874f95648891ae27" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -952,7 +952,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="185" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="185" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="185" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="185" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ad0f7b4cb2c11f2fc82f328592df725ad" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -965,7 +965,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="187" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="187" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="187" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="187" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a25edaa28c3f64938fc029d29905088d2" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -978,7 +978,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="189" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="189" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="189" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="189" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aecd1395f4252082cac1e3fddcce453eb" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -991,7 +991,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="190" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="190" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="190" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="190" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a82be8c8916b4612599017e8e41fc8ec9" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1004,7 +1004,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="191" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="191" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="191" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="191" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a57004565258f3275f64dca82bed0e967" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1017,7 +1017,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="192" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="192" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="192" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="192" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a2379a2e3c72347c2d61f903c4ad26c29" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1030,7 +1030,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="193" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="193" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="193" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="193" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a1f836c71d9130b62308b235ed7a43b80" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1043,7 +1043,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="194" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="194" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="194" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="194" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a711a6814a3e623e4def88158e109d86b" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1056,7 +1056,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="195" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="195" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="195" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="195" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a630239af6c6c898e4f1185a7a3ff9273" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1069,7 +1069,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="196" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="196" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="196" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="196" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aa76f90f3ef8cb644a503f0e8eb66c9a4" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1082,7 +1082,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="197" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="197" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="197" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="197" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aa0f2c55acbc0e147d36e2d2fd0bd64ff" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1095,7 +1095,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="198" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="198" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="198" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="198" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a8abca2ee6a6cb48b484bd4a20f512408" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1108,7 +1108,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="199" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="199" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="199" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="199" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a3f63012bdfad02ee585c70ce54f266fe" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -1121,7 +1121,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="200" column="8" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="200" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="200" column="8" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="200" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -1136,7 +1136,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="78" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="78" bodyend="78"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="78" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="78" bodyend="78"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a353700d75ae5af3ec772b85272b99b15" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type></type>
@@ -1149,7 +1149,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="79" column="9"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="79" column="9"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a8e61a518a587bf5dd73571c112b23e46" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1166,7 +1166,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="81" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="19" bodyend="116"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="81" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="19" bodyend="116"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ac0a652d7fd514484aa74d3414acb704d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1183,7 +1183,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="82" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="153" bodyend="161"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="82" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="153" bodyend="161"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a52f3a5680a093913b1b16a149a8c9691" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -1197,7 +1197,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="84" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="163" bodyend="217"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="84" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="163" bodyend="217"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a00eaecef1d13bb30fe8fc63f68a68f64" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -1211,7 +1211,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="85" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="282" bodyend="317"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="85" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="282" bodyend="317"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ad889c60334b0d6acf0797321f79dfd95" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -1225,7 +1225,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="86" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="414" bodyend="425"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="86" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="414" bodyend="425"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ae153e3a5c92023839a34b6111aacdbf5" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -1239,7 +1239,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="87" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="520" bodyend="528"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="87" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="520" bodyend="528"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a1d1f2a650cfc246633ef5a6896867469" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -1253,7 +1253,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="88" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="530" bodyend="540"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="88" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="530" bodyend="540"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a155d87923469931220e7ddc640df9cd1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1270,7 +1270,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="89" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="496" bodyend="518"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="89" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="496" bodyend="518"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-func">
@@ -1289,7 +1289,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="92" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="239" bodyend="252"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="92" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="239" bodyend="252"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1aff19f48047cb5316a5f27cac32a7756b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type><ref refid="structmoja_1_1modules_1_1cbm_1_1Environment__data" kindref="compound">Environment_data</ref></type>
@@ -1306,7 +1306,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="94" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="276" bodyend="280"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="94" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="276" bodyend="280"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a07bfbab5c3b649dba23ff9da8d41c673" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1319,7 +1319,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="95" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="254" bodyend="274"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="95" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="254" bodyend="274"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a88a5dff77dac02513cecfbe5a103d3e4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1344,7 +1344,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="113" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="319" bodyend="412"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="113" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="319" bodyend="412"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1ab649c91008684dc9bff5b713af11c09a" prot="private" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -1357,7 +1357,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="202" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="148" bodyend="151"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="202" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="148" bodyend="151"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1add276bc79a8b9eeacff4b6523e8f1a90" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>Sawtooth_ModelMeta</type>
@@ -1374,7 +1374,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="203" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="118" bodyend="146"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="203" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="118" bodyend="146"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a28133a655ef564922df6c7a4b6956525" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1399,7 +1399,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="204" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="219" bodyend="237"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="204" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/src/sawtoothmodule.cpp" bodystart="219" bodyend="237"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a746a150eead81731a63ffa4dd25e72e4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -1420,7 +1420,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="205" column="6"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="205" column="6"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -1480,7 +1480,7 @@
         </childnode>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="76" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="76" bodyend="207"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" line="76" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.sawtooth/include/moja/modules/sawtooth/sawtoothmodule.h" bodystart="76" bodyend="207"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a34ae123715aa55bfd0df5e3b317a526b" prot="private" virt="non-virtual"><scope>moja::modules::cbm::SawtoothModule</scope><name>_aboveGroundFastSoil</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1SawtoothModule_1a652a30445622c681a2e8c07e50ec90c8" prot="private" virt="non-virtual"><scope>moja::modules::cbm::SawtoothModule</scope><name>_aboveGroundVeryFastSoil</name></member>

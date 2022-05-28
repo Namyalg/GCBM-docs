@@ -5,41 +5,39 @@
     <includes local="yes">moja/modules/cbm/_modules.cbm_exports.h</includes>
     <includes refid="cbmmodulebase_8h" local="yes">moja/modules/cbm/cbmmodulebase.h</includes>
     <includes refid="standgrowthcurvefactory_8h" local="yes">moja/modules/cbm/standgrowthcurvefactory.h</includes>
-    <includedby refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/libraryfactory.cpp</includedby>
-    <includedby refid="mossgrowthmodule_8cpp" local="yes">/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossgrowthmodule.cpp</includedby>
+    <includedby refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/libraryfactory.cpp</includedby>
+    <includedby refid="mossgrowthmodule_8cpp" local="yes">/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossgrowthmodule.cpp</includedby>
     <incdepgraph>
+      <node id="8">
+        <label>moja/modules/cbm/standgrowthcurvefactory.h</label>
+        <link refid="standgrowthcurvefactory_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+      </node>
       <node id="2">
         <label>moja/modules/cbm/_modules.cbm_exports.h</label>
       </node>
       <node id="15">
         <label>moja/flint/ivariable.h</label>
       </node>
-      <node id="9">
-        <label>moja/modules/cbm/standgrowthcurve.h</label>
-        <link refid="standgrowthcurve_8h"/>
+      <node id="12">
+        <label>moja/modules/cbm/treeyieldtable.h</label>
+        <link refid="treeyieldtable_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
         <childnode refid="4" relation="include">
         </childnode>
         <childnode refid="10" relation="include">
         </childnode>
-        <childnode refid="11" relation="include">
-        </childnode>
-        <childnode refid="12" relation="include">
-        </childnode>
-        <childnode refid="13" relation="include">
-        </childnode>
-      </node>
-      <node id="11">
-        <label>moja/modules/cbm/perdfactor.h</label>
-        <link refid="perdfactor_8h"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="4" relation="include">
-        </childnode>
       </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/mossgrowthmodule.h</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/mossgrowthmodule.h</label>
         <link refid="mossgrowthmodule_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -54,9 +52,17 @@
       <node id="17">
         <label>cmath</label>
       </node>
-      <node id="10">
-        <label>moja/modules/cbm/treespecies.h</label>
-        <link refid="treespecies_8h"/>
+      <node id="16">
+        <label>moja/modules/cbm/rootbiomassequation.h</label>
+        <link refid="rootbiomassequation_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>moja/modules/cbm/perdfactor.h</label>
+        <link refid="perdfactor_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
         <childnode refid="4" relation="include">
@@ -87,40 +93,34 @@
         <childnode refid="7" relation="include">
         </childnode>
       </node>
-      <node id="12">
-        <label>moja/modules/cbm/treeyieldtable.h</label>
-        <link refid="treeyieldtable_8h"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="4" relation="include">
-        </childnode>
-        <childnode refid="10" relation="include">
-        </childnode>
-      </node>
       <node id="7">
         <label>boost/exception_ptr.hpp</label>
       </node>
       <node id="14">
         <label>moja/flint/ipool.h</label>
       </node>
-      <node id="16">
-        <label>moja/modules/cbm/rootbiomassequation.h</label>
-        <link refid="rootbiomassequation_8h"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="17" relation="include">
-        </childnode>
-      </node>
-      <node id="8">
-        <label>moja/modules/cbm/standgrowthcurvefactory.h</label>
-        <link refid="standgrowthcurvefactory_8h"/>
+      <node id="9">
+        <label>moja/modules/cbm/standgrowthcurve.h</label>
+        <link refid="standgrowthcurve_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
         <childnode refid="4" relation="include">
         </childnode>
-        <childnode refid="9" relation="include">
+        <childnode refid="10" relation="include">
         </childnode>
-        <childnode refid="18" relation="include">
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>moja/modules/cbm/treespecies.h</label>
+        <link refid="treespecies_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
         </childnode>
       </node>
       <node id="18">
@@ -131,20 +131,20 @@
       </node>
     </incdepgraph>
     <invincdepgraph>
-      <node id="2">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/libraryfactory.cpp</label>
-        <link refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp"/>
-      </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/mossgrowthmodule.h</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/mossgrowthmodule.h</label>
         <link refid="mossgrowthmodule_8h"/>
         <childnode refid="2" relation="include">
         </childnode>
         <childnode refid="3" relation="include">
         </childnode>
       </node>
+      <node id="2">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/libraryfactory.cpp</label>
+        <link refid="moja_8modules_8cbm_2src_2libraryfactory_8cpp"/>
+      </node>
       <node id="3">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/mossgrowthmodule.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/mossgrowthmodule.cpp</label>
         <link refid="mossgrowthmodule_8cpp"/>
       </node>
     </invincdepgraph>
@@ -233,6 +233,6 @@
 <codeline lineno="77"><highlight class="normal">}</highlight></codeline>
 <codeline lineno="78"><highlight class="normal"></highlight><highlight class="preprocessor">#endif</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/mossgrowthmodule.h"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/mossgrowthmodule.h"/>
   </compounddef>
 </doxygen>

@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="25" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="25" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="25" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="25" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a48ca2e7073b4cfc9f8c4dcfbbb5c0cb6" prot="private" static="no" mutable="no">
         <type>flint::IVariable *</type>
@@ -30,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="26" column="18" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="26" bodyend="-1"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="26" column="18" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="26" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -45,7 +45,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="12" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="12" bodyend="12"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="12" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="12" bodyend="12"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a19d0bdda16c2c06b39d9e63c1a1143a0" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type></type>
@@ -58,7 +58,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="13" column="9"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="13" column="9"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1ac0a652d7fd514484aa74d3414acb704d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -75,7 +75,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="15" column="6" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="12" bodyend="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="15" column="6" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="12" bodyend="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a8e41f51154c5772b8a205c208eb8a03d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>flint::ModuleTypes</type>
@@ -88,7 +88,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="17" column="20" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="17" bodyend="17"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="17" column="20" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="17" bodyend="17"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a52f3a5680a093913b1b16a149a8c9691" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -102,7 +102,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="19" column="22" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="19" bodyend="26"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="19" column="22" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="19" bodyend="26"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a00eaecef1d13bb30fe8fc63f68a68f64" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -116,7 +116,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="20" column="22" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="28" bodyend="34"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="20" column="22" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="28" bodyend="34"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a31dddd03058b89e969c75c8e479be5a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -130,7 +130,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="21" column="22" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="36" bodyend="42"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="21" column="22" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="36" bodyend="42"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a55cb5c7b6faa6e8e495470986e77c084" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>void</type>
@@ -148,7 +148,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="22" column="14" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="44" bodyend="52"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="22" column="14" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/disturbancemonitormodule.cpp" bodystart="44" bodyend="52"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -179,7 +179,7 @@
         </childnode>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="10" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="10" bodyend="27"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" line="10" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/disturbancemonitormodule.h" bodystart="10" bodyend="27"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a48ca2e7073b4cfc9f8c4dcfbbb5c0cb6" prot="private" virt="non-virtual"><scope>moja::modules::cbm::DisturbanceMonitorModule</scope><name>_currentDisturbance</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1DisturbanceMonitorModule_1a7f8239d54bd84c8fa125f32ca1c26b35" prot="private" virt="non-virtual"><scope>moja::modules::cbm::DisturbanceMonitorModule</scope><name>_moduleEnabled</name></member>

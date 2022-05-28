@@ -19,7 +19,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdisturbancelistener.h" line="39" column="9"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdisturbancelistener.h" line="39" column="9"/>
       </memberdef>
       <memberdef kind="function" id="classmoja_1_1modules_1_1cbm_1_1IDisturbanceSubCondition_1a8eeec53c51bc14f0ad0fe9e545a7a154" prot="public" static="no" const="yes" explicit="no" inline="no" virt="pure-virtual">
         <type>bool</type>
@@ -36,7 +36,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdisturbancelistener.h" line="41" column="14"/>
+        <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdisturbancelistener.h" line="41" column="14"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -79,7 +79,7 @@
         <link refid="classmoja_1_1modules_1_1cbm_1_1IDisturbanceSubCondition"/>
       </node>
     </collaborationgraph>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdisturbancelistener.h" line="37" column="1" bodyfile="/mnt/e/moja.canada/Source/moja.modules.cbm/include/moja/modules/cbm/cbmdisturbancelistener.h" bodystart="37" bodyend="42"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdisturbancelistener.h" line="37" column="1" bodyfile="/mnt/e/DOXY-DOCS/moja.modules.cbm/include/moja/modules/cbm/cbmdisturbancelistener.h" bodystart="37" bodyend="42"/>
     <listofallmembers>
       <member refid="classmoja_1_1modules_1_1cbm_1_1IDisturbanceSubCondition_1a8eeec53c51bc14f0ad0fe9e545a7a154" prot="public" virt="pure-virtual"><scope>moja::modules::cbm::IDisturbanceSubCondition</scope><name>check</name></member>
       <member refid="classmoja_1_1modules_1_1cbm_1_1IDisturbanceSubCondition_1a3a1dac12ada3c152f272bb7adbe4faa3" prot="public" virt="virtual"><scope>moja::modules::cbm::IDisturbanceSubCondition</scope><name>~IDisturbanceSubCondition</name></member>

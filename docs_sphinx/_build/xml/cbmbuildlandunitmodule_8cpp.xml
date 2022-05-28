@@ -13,8 +13,11 @@
       <node id="9">
         <label>moja/signals.h</label>
       </node>
+      <node id="4">
+        <label>moja/flint/modulebase.h</label>
+      </node>
       <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmbuildlandunitmodule.cpp</label>
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmbuildlandunitmodule.cpp</label>
         <link refid="cbmbuildlandunitmodule_8cpp"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -24,9 +27,6 @@
         </childnode>
         <childnode refid="10" relation="include">
         </childnode>
-      </node>
-      <node id="4">
-        <label>moja/flint/modulebase.h</label>
       </node>
       <node id="2">
         <label>moja/modules/cbm/cbmbuildlandunitmodule.h</label>
@@ -173,6 +173,6 @@
 <codeline lineno="147"><highlight class="normal"></highlight></codeline>
 <codeline lineno="148"><highlight class="normal">}}}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>moja::modules::cbm</highlight><highlight class="normal"></highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/cbmbuildlandunitmodule.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/cbmbuildlandunitmodule.cpp"/>
   </compounddef>
 </doxygen>

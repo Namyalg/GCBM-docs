@@ -6,11 +6,81 @@
     <includes refid="standgrowthcurvefactory_8h" local="yes">moja/modules/cbm/standgrowthcurvefactory.h</includes>
     <includes refid="foresttypeconfiguration_8h" local="yes">moja/modules/cbm/foresttypeconfiguration.h</includes>
     <incdepgraph>
+      <node id="3">
+        <label>moja/modules/cbm/standgrowthcurvefactory.h</label>
+        <link refid="standgrowthcurvefactory_8h"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+      </node>
       <node id="4">
         <label>moja/modules/cbm/_modules.cbm_exports.h</label>
       </node>
       <node id="12">
         <label>moja/flint/ivariable.h</label>
+      </node>
+      <node id="9">
+        <label>moja/modules/cbm/treeyieldtable.h</label>
+        <link refid="treeyieldtable_8h"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>moja/flint/modulebase.h</label>
+      </node>
+      <node id="14">
+        <label>cmath</label>
+      </node>
+      <node id="13">
+        <label>moja/modules/cbm/rootbiomassequation.h</label>
+        <link refid="rootbiomassequation_8h"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>moja/modules/cbm/perdfactor.h</label>
+        <link refid="perdfactor_8h"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>moja/modules/cbm/foresttypeconfiguration.h</label>
+        <link refid="foresttypeconfiguration_8h"/>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standgrowthcurvefactory.cpp</label>
+        <link refid="standgrowthcurvefactory_8cpp"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>moja/flint/variable.h</label>
+      </node>
+      <node id="11">
+        <label>moja/flint/ipool.h</label>
       </node>
       <node id="6">
         <label>moja/modules/cbm/standgrowthcurve.h</label>
@@ -28,82 +98,12 @@
         <childnode refid="10" relation="include">
         </childnode>
       </node>
-      <node id="8">
-        <label>moja/modules/cbm/perdfactor.h</label>
-        <link refid="perdfactor_8h"/>
-        <childnode refid="4" relation="include">
-        </childnode>
-        <childnode refid="5" relation="include">
-        </childnode>
-      </node>
-      <node id="5">
-        <label>moja/flint/modulebase.h</label>
-      </node>
-      <node id="14">
-        <label>cmath</label>
-      </node>
       <node id="7">
         <label>moja/modules/cbm/treespecies.h</label>
         <link refid="treespecies_8h"/>
         <childnode refid="4" relation="include">
         </childnode>
         <childnode refid="5" relation="include">
-        </childnode>
-      </node>
-      <node id="10">
-        <label>moja/modules/cbm/foresttypeconfiguration.h</label>
-        <link refid="foresttypeconfiguration_8h"/>
-        <childnode refid="11" relation="include">
-        </childnode>
-        <childnode refid="12" relation="include">
-        </childnode>
-        <childnode refid="13" relation="include">
-        </childnode>
-      </node>
-      <node id="2">
-        <label>moja/flint/variable.h</label>
-      </node>
-      <node id="9">
-        <label>moja/modules/cbm/treeyieldtable.h</label>
-        <link refid="treeyieldtable_8h"/>
-        <childnode refid="4" relation="include">
-        </childnode>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="7" relation="include">
-        </childnode>
-      </node>
-      <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/standgrowthcurvefactory.cpp</label>
-        <link refid="standgrowthcurvefactory_8cpp"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="3" relation="include">
-        </childnode>
-        <childnode refid="10" relation="include">
-        </childnode>
-      </node>
-      <node id="11">
-        <label>moja/flint/ipool.h</label>
-      </node>
-      <node id="13">
-        <label>moja/modules/cbm/rootbiomassequation.h</label>
-        <link refid="rootbiomassequation_8h"/>
-        <childnode refid="4" relation="include">
-        </childnode>
-        <childnode refid="14" relation="include">
-        </childnode>
-      </node>
-      <node id="3">
-        <label>moja/modules/cbm/standgrowthcurvefactory.h</label>
-        <link refid="standgrowthcurvefactory_8h"/>
-        <childnode refid="4" relation="include">
-        </childnode>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="6" relation="include">
-        </childnode>
-        <childnode refid="15" relation="include">
         </childnode>
       </node>
       <node id="15">
@@ -211,6 +211,6 @@
 <codeline lineno="91"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="92"><highlight class="normal">}}}</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/standgrowthcurvefactory.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/standgrowthcurvefactory.cpp"/>
   </compounddef>
 </doxygen>

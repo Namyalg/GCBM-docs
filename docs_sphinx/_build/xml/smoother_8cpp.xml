@@ -18,6 +18,41 @@
       <node id="13">
         <label>moja/flint/ivariable.h</label>
       </node>
+      <node id="10">
+        <label>moja/modules/cbm/treeyieldtable.h</label>
+        <link refid="treeyieldtable_8h"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>moja/flint/modulebase.h</label>
+      </node>
+      <node id="3">
+        <label>cmath</label>
+      </node>
+      <node id="2">
+        <label>numeric</label>
+      </node>
+      <node id="18">
+        <label>moja/modules/cbm/lmeval.h</label>
+        <link refid="lmeval_8h"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>moja/modules/cbm/rootbiomassequation.h</label>
+        <link refid="rootbiomassequation_8h"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
       <node id="16">
         <label>moja/modules/cbm/helper.h</label>
         <link refid="helper_8h"/>
@@ -25,6 +60,69 @@
         </childnode>
         <childnode refid="5" relation="include">
         </childnode>
+      </node>
+      <node id="9">
+        <label>moja/modules/cbm/perdfactor.h</label>
+        <link refid="perdfactor_8h"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>componentbiomasscarboncurve.h</label>
+        <link refid="componentbiomasscarboncurve_8h"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>moja/modules/cbm/foresttypeconfiguration.h</label>
+        <link refid="foresttypeconfiguration_8h"/>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+      </node>
+      <node id="19">
+        <label>moja/modules/cbm/lmmin.h</label>
+        <link refid="lmmin_8h"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>moja/modules/cbm/smoother.h</label>
+        <link refid="smoother_8h"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>/mnt/e/DOXY-DOCS/moja.modules.cbm/src/smoother.cpp</label>
+        <link refid="smoother_8cpp"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>moja/flint/ipool.h</label>
       </node>
       <node id="7">
         <label>standgrowthcurve.h</label>
@@ -42,110 +140,12 @@
         <childnode refid="11" relation="include">
         </childnode>
       </node>
-      <node id="9">
-        <label>moja/modules/cbm/perdfactor.h</label>
-        <link refid="perdfactor_8h"/>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="6" relation="include">
-        </childnode>
-      </node>
-      <node id="1">
-        <label>/mnt/e/moja.canada/Source/moja.modules.cbm/src/smoother.cpp</label>
-        <link refid="smoother_8cpp"/>
-        <childnode refid="2" relation="include">
-        </childnode>
-        <childnode refid="3" relation="include">
-        </childnode>
-        <childnode refid="4" relation="include">
-        </childnode>
-        <childnode refid="16" relation="include">
-        </childnode>
-        <childnode refid="18" relation="include">
-        </childnode>
-        <childnode refid="19" relation="include">
-        </childnode>
-      </node>
-      <node id="6">
-        <label>moja/flint/modulebase.h</label>
-      </node>
-      <node id="3">
-        <label>cmath</label>
-      </node>
-      <node id="2">
-        <label>numeric</label>
-      </node>
       <node id="8">
         <label>moja/modules/cbm/treespecies.h</label>
         <link refid="treespecies_8h"/>
         <childnode refid="5" relation="include">
         </childnode>
         <childnode refid="6" relation="include">
-        </childnode>
-      </node>
-      <node id="18">
-        <label>moja/modules/cbm/lmeval.h</label>
-        <link refid="lmeval_8h"/>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="6" relation="include">
-        </childnode>
-      </node>
-      <node id="4">
-        <label>moja/modules/cbm/smoother.h</label>
-        <link refid="smoother_8h"/>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="6" relation="include">
-        </childnode>
-        <childnode refid="7" relation="include">
-        </childnode>
-        <childnode refid="15" relation="include">
-        </childnode>
-      </node>
-      <node id="11">
-        <label>moja/modules/cbm/foresttypeconfiguration.h</label>
-        <link refid="foresttypeconfiguration_8h"/>
-        <childnode refid="12" relation="include">
-        </childnode>
-        <childnode refid="13" relation="include">
-        </childnode>
-        <childnode refid="14" relation="include">
-        </childnode>
-      </node>
-      <node id="15">
-        <label>componentbiomasscarboncurve.h</label>
-        <link refid="componentbiomasscarboncurve_8h"/>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="6" relation="include">
-        </childnode>
-      </node>
-      <node id="10">
-        <label>moja/modules/cbm/treeyieldtable.h</label>
-        <link refid="treeyieldtable_8h"/>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="6" relation="include">
-        </childnode>
-        <childnode refid="8" relation="include">
-        </childnode>
-      </node>
-      <node id="12">
-        <label>moja/flint/ipool.h</label>
-      </node>
-      <node id="14">
-        <label>moja/modules/cbm/rootbiomassequation.h</label>
-        <link refid="rootbiomassequation_8h"/>
-        <childnode refid="5" relation="include">
-        </childnode>
-        <childnode refid="3" relation="include">
-        </childnode>
-      </node>
-      <node id="19">
-        <label>moja/modules/cbm/lmmin.h</label>
-        <link refid="lmmin_8h"/>
-        <childnode refid="5" relation="include">
         </childnode>
       </node>
     </incdepgraph>
@@ -504,6 +504,6 @@
 <codeline lineno="345"><highlight class="normal"></highlight></codeline>
 <codeline lineno="346"><highlight class="normal">}}}</highlight></codeline>
     </programlisting>
-    <location file="/mnt/e/moja.canada/Source/moja.modules.cbm/src/smoother.cpp"/>
+    <location file="/mnt/e/DOXY-DOCS/moja.modules.cbm/src/smoother.cpp"/>
   </compounddef>
 </doxygen>
