@@ -1,6 +1,6 @@
 <doxygenlayout version="1.0">
   <navindex>
-    <tab type="user" url="../html/index.html" title="Home"/>  
+    <tab type="user" url="../index.html" title="Home"/>  
     <tab type="mainpage" visible="yes" title="API Home"/>
     <tab type="pages" visible="yes" title="" intro=""/>
     <tab type="modules" visible="yes" title="" intro=""/>
